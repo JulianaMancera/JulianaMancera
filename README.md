@@ -1,7 +1,7 @@
 # Hi 👋, I'm Juliana R. Mancera
  
 ## About me:
-I am Juliana R. Mancera, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Comouter Science program.
+I am Juliana R. Mancera, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program.
 
 ## Education:
 - **BS Computer Science**
