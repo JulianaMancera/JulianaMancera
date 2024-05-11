@@ -19,5 +19,5 @@ I am Juliana R. Mancera, with a flair for coding and database management skills.
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, IntelliJ, VS Code
 
 ## Contact:
-- **LinkedIn:** [LinkedIn Profile](linkedin-profile-link)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/juliana-mancera-84947b309/)
 - **Email:** mancerajuliana98@gmail.com
