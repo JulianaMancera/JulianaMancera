@@ -1,11 +1,13 @@
-# Hi 👋, I'm Juliana R. Mancera
+# Hello, I'm Juliana R. Mancera 👋
  
 ## About me:
-I am Juliana R. Mancera, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program.
+I have a passion for coding and database management. I like to work on complex problems and coming up with creative solutions. My journey in technology began when I enrolled in the BS Computer Science program.
 
 ## Education:
 - **BS Computer Science**
   New Era University (2022-Present)
+- **STEM Graduate**
+  Lagro High School (2016-2022)
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84)
@@ -19,5 +21,5 @@ I am Juliana R. Mancera, with a flair for coding and database management skills.
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, IntelliJ, VS Code
 
 ## Contact:
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/juliana-mancera-84947b309/)
-- **Email:** mancerajuliana98@gmail.com
+- **LinkedIn:** [Juliana Mancera](https://www.linkedin.com/in/juliana-mancera-84947b309/)
+- **Email:** mancerajuliana98@gmail.com / julianamancera06@gmail.com
