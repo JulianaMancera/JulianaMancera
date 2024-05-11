@@ -4,10 +4,10 @@
 I have a passion for coding and database management. I like to work on complex problems and coming up with creative solutions. My journey in technology began when I enrolled in the BS Computer Science program.
 
 ## Education:
-- **BS Computer Science**
-  New Era University (2022-Present)
-- **STEM Graduate**
-  Lagro High School (2016-2022)
+- **BS Computer Science** <br>
+  - New Era University (2022-Present)
+- **STEM Graduate** <br>
+  - Lagro High School (2016-2022)
 
 ## Certification:
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84)
