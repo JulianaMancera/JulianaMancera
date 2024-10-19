@@ -3,6 +3,8 @@
 ## About me:
 I have a passion for coding and database management. I like to work on complex problems and coming up with creative solutions. My journey in technology began when I enrolled in the BS Computer Science program.
 
+![𝕤𝕦𝕟𝕤𝕖𝕥 𝕔𝕣𝕦𝕚𝕤𝕖 🌆🚘🎟 anime car aesthetic looping gif](https://github.com/user-attachments/assets/4c6542ff-5a84-4822-8926-3a0a9b3783b2)
+
 ## Education:
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
