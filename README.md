@@ -20,7 +20,7 @@ I have a passion for coding and database management. I like to work on complex p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juliana mancera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliana mancera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juliana-mancera-84947b309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juliana Mancera" height="30" width="40" /></a>
 <a href="https://instagram.com/lia.da__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lia.da__" height="30" width="40" /></a>
 </p>
 
