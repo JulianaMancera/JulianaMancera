@@ -17,7 +17,6 @@ I'm a passionate Computer Science student that enjoys coding, database managemen
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe)
 - [Introduction to Critical Infrastructure Protection](https://learn.opswatacademy.com/certificate/YtQswqw4LQ)
-- [Responsive Web Design](https://www.freecodecamp.org/certification/julsaurus/responsive-web-design)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
