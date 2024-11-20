@@ -4,7 +4,7 @@
 
 ![𝕤𝕦𝕟𝕤𝕖𝕥 𝕔𝕣𝕦𝕚𝕤𝕖 🌆🚘🎟 anime car aesthetic looping gif](https://github.com/user-attachments/assets/4c6542ff-5a84-4822-8926-3a0a9b3783b2)
 
-### &emsp;&emsp;**I'm a passionate Computer Science student that enjoys coding, database management, and developing innovative solutions to complex problems. My technological journey began when I enrolled in the BS Computer Science program, where I've been building a solid foundation in software development, data structures, algorithms, and system design.**
+### &emsp;&emsp;**I'm a passionate Computer Science student that enjoys coding, database management, and developing innovative solutions to complex problems.**
 
 ## Education:
 - **BS Computer Science** <br>
