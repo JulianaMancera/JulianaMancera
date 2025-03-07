@@ -49,12 +49,8 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160"/>    ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160"/> <br/>
-<img src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" width="160" />![](https://github-readme-streak-stats.herokuapp.com/?user=JulianaMancera&theme=tokyonight&hide_border=false)><img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160" /><br/>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160"/> ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160"/> <br/>
+<img src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" width="160" />![](https://nirzak-streak-stats.vercel.app/?user=JulianaMancera&theme=react&hide_border=false)><img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160" /><br/>
 <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="160" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianamancera&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=falset" alt="julianamancera" /><img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" /><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" /><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
