@@ -1,15 +1,29 @@
-# Hello there 👋 
+# Hello I'm Juls👋 
 
 ![MEH](https://github.com/user-attachments/assets/42b4660e-58fe-4460-b654-c170cf784261)
 
-<h3 align="center">Connect with me🌐:</h3> 
-<p align="center">
-<a href="https://www.linkedin.com/in/juliana-mancera-84947b309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juliana Mancera" height="30" width="40" /></a>
-<a href="https://instagram.com/lia.da__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lia.da__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/julsaurus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julsaurus" height="30" width="40" /></a>
+<p align="left">
+  <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
+  <br>
+  <br>
+  <h3 align="left">Connect with me 🌐:</h3>
+  <p>
+    <a href="mailto:real.julianamancera@gmail.com" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" height="30" width="40" style="vertical-align: middle;" />
+  </a>
+   <a href="https://www.linkedin.com/in/juliana-mancera-84947b309/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juliana Mancera" height="30" width="40" />
+  </a>
+<a href="https://instagram.com/lia.da__" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lia.da__" height="30" width="40" />
+  </a>
+<a href="https://www.leetcode.com/julsaurus" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julsaurus" height="30" width="40" />
+  </a>
+  </p>
+  <p><strong>I'm a passionate Computer Science student who thrives on coding, managing databases, and creating innovative solutions to challenging problems.</strong></p><br>
 </p>
 
-### &emsp;&emsp;**I'm a passionate Computer Science student who thrives on coding, managing databases, and creating innovative solutions to challenging problems.**
 
 ## 🎓Education
 - **BS Computer Science** <br>
