@@ -8,9 +8,6 @@
   <br>
   <h3 align="left">Connect with me 🌐:</h3>
   <p>
-    <a href="mailto:real.julianamancera@gmail.com" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" height="30" width="40" style="vertical-align: middle;" />
-  </a>
    <a href="https://www.linkedin.com/in/juliana-mancera-84947b309/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juliana Mancera" height="30" width="40" />
   </a>
