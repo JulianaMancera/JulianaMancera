@@ -51,3 +51,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="160" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" /><br/>
 
+## TryHackMe Profile
+<img src="https://tryhackme-badges.s3.amazonaws.com/julsaururs.png" alt="Your Image Badge" />
+
