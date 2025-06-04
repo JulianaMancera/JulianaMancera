@@ -43,7 +43,7 @@
 <h3 align="left">⚙️Languages and Tools</h3>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,cpp,html,css,bash,nextjs,nodejs,react,tailwindcss,bootstrap,mysql,firebase,vite,flask,figma,git,linux,laravel,mint,googlecloud,photoshop,unity" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,html,css,bash,nextjs,nodejs,react,tailwindcss,bootstrap,mysql,firebase,vite,flask,figma,git,linux,laravel,mint,googlecloud,photoshop,unity" />
   </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160"/> ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160"/> <br/>
