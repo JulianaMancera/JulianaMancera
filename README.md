@@ -26,7 +26,7 @@
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
 - **STEM Graduate** <br>
-  - Lagro High School (2016-2022)
+  - Lagro High School (2018-2022)
 
 ## 📜Certifications
 <div align="center">
