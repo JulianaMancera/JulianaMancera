@@ -33,7 +33,8 @@
   
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn - Skillup | June 2025 |
+| <a href="https://simpli-web.app.link/e/YZdsJqJ2YTb"> Agile Scrum Master | Simplilearn - Skillup | June 2025 |
+| <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Prompt Engineering Application | Simplilearn - Skillup | June 2025 |
 | <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 | 
 | <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp| October 2024 | 
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> | Oracle | November 2023 | 
