@@ -33,7 +33,7 @@
   
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0NDgzIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODQzNjI4NV84Nzk5MDE4MTc0OTIyNTExNzAzOS5wbmciLCJ1c2VybmFtZSI6Ikp1bGlhbmEgTWFuY2VyYSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F7411%2FAgile-Scrum-Master_SkillUp%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1423516912573154215&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVT%2FHNyTIzr4qMDEmyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFcN741BAAAA"> Agile Scrum Master | Simplilearn - Skillup | June 2025 |
+| <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn - Skillup | June 2025 |
 | <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 | 
 | <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp| October 2024 | 
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> | Oracle | November 2023 | 
