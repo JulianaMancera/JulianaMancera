@@ -34,7 +34,7 @@
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
-| <a href="https://simpli-web.app.link/e/YZdsJqJ2YTb"> Prompt Engineering Application | Simplilearn | June 2025 |
+| <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8438735_88014871749297628047.pdf"> Ethical hacking 101 | Simplilearn | June 2025 |
 | <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 | 
 | <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp| October 2024 | 
