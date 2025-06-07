@@ -33,6 +33,7 @@
   
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud/Simplilearn | June 2025 |
 | <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
 | <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
