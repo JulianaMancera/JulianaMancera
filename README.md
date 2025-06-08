@@ -47,7 +47,7 @@
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442282_87990181749391600176.pdf"> Python Libraries for Data Science | Simplilearn | June 2025 |
 | <a href="https://www.freecodecamp.org/certification/julsaurus/scientific-computing-with-python-v7"> Scientific Computing with Python | freeCodeCamp | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8442616_87990181749396191474.pdf"> Exploring Data Transformation with Google Cloud | Simplilearn | June 2025 |
+| <a href="https://certificates.simplicdn.net/share/8442616_87990181749396191474.pdf"> Exploring Data Transformation with Google Cloud | Google Cloud | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8441612_87990181749380020146.pdf"> Project Management 101 | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud | June 2025 |
 | <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
