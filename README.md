@@ -27,12 +27,22 @@
   - New Era University (2022-Present)
 - **STEM Graduate** <br>
   - Lagro High School (2020-2022)
+ 
+## 🎖️Badges
+<div align="center">
+  
+| Badge | Issued by |
+| :------------------: | :----------: |
+| <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs |
+
+</div>
 
 ## 📜Certifications
 <div align="center">
   
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://certificates.simplicdn.net/share/8441612_87990181749380020146.pdf"> Project Management 101 | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud/Simplilearn | June 2025 |
 | <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
 | <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
@@ -45,19 +55,23 @@
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8339061558F6FB5F2CC6602BB7E61C1F24547A361974349ABE5A7C6C33A7B1D7">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
+</div>
 
-<h3 align="left">⚙️Languages and Tools</h3>
+## ⚙️Languages and Tools
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,html,css,bash,nextjs,nodejs,react,tailwindcss,bootstrap,mysql,firebase,vite,flask,figma,git,linux,laravel,mint,googlecloud,photoshop,unity" />
   </a>
 
+<div align="center">
+  
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160"/> ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160"/> <br/>
 <img src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" width="160" /> ![](https://nirzak-streak-stats.vercel.app/?user=JulianaMancera&theme=react&hide_border=false)
 <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160"/> <br/>
 <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="160" /> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" /><br/>
+</div>
 
 ## Contributions👾
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
