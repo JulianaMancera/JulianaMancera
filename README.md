@@ -22,28 +22,33 @@
 </p>
 
 
-## 🎓Education
+## 🎓 Education
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
 - **STEM Graduate** <br>
   - Lagro High School (2020-2022)
  
-## 🎖️Badges
+## 🎖️ Badges
 <div align="center">
   
 | Badge | Issued by |
 | :------------------: | :----------: |
 | <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs |
+| <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM |
+
 
 </div>
 
-## 📜Certifications
+## 📜 Certifications
 <div align="center">
   
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
+| <a href="https://certificates.simplicdn.net/share/8442282_87990181749391600176.pdf"> Python Libraries for Data Science | Simplilearn | June 2025 |
+| <a href="https://www.freecodecamp.org/certification/julsaurus/scientific-computing-with-python-v7"> Scientific Computing with Python | freeCodeCamp | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8441612_87990181749380020146.pdf"> Project Management 101 | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud/Simplilearn | June 2025 |
+| <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud | June 2025 |
 | <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
 | <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
@@ -57,7 +62,7 @@
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
 </div>
 
-## ⚙️Languages and Tools
+## ⚙️ Languages and Tools
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,html,css,bash,nextjs,nodejs,react,tailwindcss,bootstrap,mysql,firebase,vite,flask,figma,git,linux,laravel,mint,googlecloud,photoshop,unity" />
@@ -73,6 +78,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" /><br/>
 </div>
 
-## Contributions👾
+## 👾 Contributions
+<div align="center">
+  
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
+</div>
 
