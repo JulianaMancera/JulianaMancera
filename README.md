@@ -21,7 +21,6 @@
   <p><strong>I'm a passionate Computer Science student who thrives on coding, managing databases, and creating innovative solutions to challenging problems.</strong></p><br>
 </p>
 
-
 ## 🎓 Education
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
@@ -37,7 +36,6 @@
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 | 
 
 </div>
-
 
 ## 📜 Certifications
 <div align="center">
