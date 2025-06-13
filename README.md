@@ -42,6 +42,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8459799_87990181749737729500.pdf"> Introduction to Cyber Security | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8459618_87990181749734369443.pdf"> Design Thinking for Beginners | Simplilearn | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
