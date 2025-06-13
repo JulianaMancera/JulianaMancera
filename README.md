@@ -32,6 +32,7 @@
   
 | Badge | Issued by | Month Issued |
 | :------------------: | :----------: |  :----------: |
+| <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM | June 2025|
 | <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM | June 2025|
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 | 
 
