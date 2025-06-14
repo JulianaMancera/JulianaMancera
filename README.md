@@ -26,14 +26,16 @@
   - New Era University (2022-Present)
 - **STEM Graduate** <br>
   - Lagro High School (2020-2022)
- 
+
+
 ## 🎖️ Badges
 <div align="center">
   
 | Badge | Issued by | Month Issued |
-| :------------------: | :----------: |  :----------: |
-| <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM | June 2025|
-| <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM | June 2025|
+| :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/76757f03-f2bd-4f5a-be02-bea87908df7f" width="100"> <br> <a href="https://www.credly.com/badges/75239e5e-a10b-40c2-a12d-8849e1f9096c/public_url"> Data Analysis Using Python | IBM | June 2025 |
+| <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM | June 2025 |
+| <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM | June 2025 |
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 | 
 
 </div>
@@ -43,6 +45,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://courses.cognitiveclass.ai/certificates/12bc0fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8459799_87990181749737729500.pdf"> Introduction to Cyber Security | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8459618_87990181749734369443.pdf"> Design Thinking for Beginners | Simplilearn | June 2025 |
