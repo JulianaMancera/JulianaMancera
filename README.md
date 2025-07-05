@@ -33,6 +33,7 @@
   
 | Badge | Issued by | Month Issued |
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/0edf4f27-587c-4962-9c17-2f0a2eaa3fc7" width="100"> <br> <a href="https://www.credly.com/badges/264e555a-1378-4136-a359-7710edf7ab4b/public_url"> Introduction to Data Science | IBM | July 2025 |
 | <img src="https://github.com/user-attachments/assets/04285038-3628-4502-841b-214b67a02af0" width="100"> <br> <a href="https://www.credly.com/badges/4faba3d0-ec9e-494f-be1e-8d71d5e4c0c7/public_url"> Introduction to Data Science | Cisco | July 2025 |
 | <img src="https://github.com/user-attachments/assets/76757f03-f2bd-4f5a-be02-bea87908df7f" width="100"> <br> <a href="https://www.credly.com/badges/75239e5e-a10b-40c2-a12d-8849e1f9096c/public_url"> Data Analysis Using Python | IBM | June 2025 |
 | <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM | June 2025 |
