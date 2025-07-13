@@ -47,6 +47,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://certificates.simplicdn.net/share/8620048_87990181752418869262.pdf">  Machine Learning Using Python | Simplilearn | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
 | <a href="https://certificates.simplicdn.net/share/8487444_87990181750340769063.pdf">  Hugging Face Projects | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442283_87990181749881988635.pdf">  Python for Beginners | Simplilearn | June 2025 |
