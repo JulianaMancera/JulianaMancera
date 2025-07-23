@@ -31,8 +31,9 @@
 ## 🎖️ Badges
 <div align="center">
   
-| Badge | Issued by | Month Issued |
+| Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/8fdd696d-69ba-4a54-ac4e-97af7fea1c46" width="100"> <br> <a href="https://www.credly.com/badges/be18cb48-ffb0-4671-92f9-c4dfbdd8bdd3/public_url"> Deep Learning using TensorFlow | IBM | July 2025 |
 | <img src="https://github.com/user-attachments/assets/db4b68b6-1843-4487-a327-b48819d34bc5" width="100"> <br> <a href="https://www.credly.com/badges/264e555a-1378-4136-a359-7710edf7ab4b/public_url"> Data Visualization using Python | IBM | July 2025 |
 | <img src="https://github.com/user-attachments/assets/04285038-3628-4502-841b-214b67a02af0" width="100"> <br> <a href="https://www.credly.com/badges/4faba3d0-ec9e-494f-be1e-8d71d5e4c0c7/public_url"> Introduction to Data Science | Cisco | July 2025 |
 | <img src="https://github.com/user-attachments/assets/76757f03-f2bd-4f5a-be02-bea87908df7f" width="100"> <br> <a href="https://www.credly.com/badges/75239e5e-a10b-40c2-a12d-8849e1f9096c/public_url"> Data Analysis Using Python | IBM | June 2025 |
@@ -40,7 +41,6 @@
 | <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM | June 2025 |
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 | 
 
-</div>
 
 ## 📜 Certifications
 <div align="center">
