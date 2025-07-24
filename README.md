@@ -1,4 +1,4 @@
-# Hello I'm Juls👋 
+# Hello, I'm Juls👋 
 
 ![izme](https://github.com/user-attachments/assets/eae8f59f-53c6-4e2d-a657-46589a826e9a)
 
