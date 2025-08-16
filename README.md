@@ -49,14 +49,9 @@
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
-| <a href="https://certificates.simplicdn.net/share/8620048_87990181752418869262.pdf">  Machine Learning Using Python | Simplilearn | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
-| <a href="https://certificates.simplicdn.net/share/8487444_87990181750340769063.pdf">  Hugging Face Projects | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8442283_87990181749881988635.pdf">  Python for Beginners | Simplilearn | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/12bc0fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8459799_87990181749737729500.pdf"> Introduction to Cyber Security | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8459618_87990181749734369443.pdf"> Design Thinking for Beginners | Simplilearn | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442282_87990181749391600176.pdf"> Python Libraries for Data Science | Simplilearn | June 2025 |
 | <a href="https://www.freecodecamp.org/certification/julsaurus/scientific-computing-with-python-v7"> Scientific Computing with Python | freeCodeCamp | June 2025 |
@@ -67,7 +62,6 @@
 | <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8438932_87990181749300777266.pdf">  Azure Fundamentals | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8438735_88014871749297628047.pdf"> Ethical hacking 101 | Simplilearn | June 2025 |
 | <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 | 
 | <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp | October 2024 | 
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> | Oracle | November 2023 | 
