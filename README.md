@@ -94,10 +94,9 @@
   </a>
 <h3>Design & Development Tools</h3>
  <p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,mint" />
-  </a>
-
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,figma,powerbi,git,github,linux,linuxmint" />
+  
+  
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160"/> ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)
