@@ -94,7 +94,7 @@
   </a>
 <h3>Design & Development Tools</h3>
  <p align="center"> 
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,figma,powerbi,git,github,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
   
   
 <div align="center">
