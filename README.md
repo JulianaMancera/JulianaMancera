@@ -10,13 +10,13 @@
   <h3 align="left">Connect with me 🌐:</h3>
   <p>
    <a href="https://www.linkedin.com/in/juliana-mancera-84947b309/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juliana Mancera" height="30" width="30" />
+  <img align="center" src="https://skills.syvixor.com/api/icons?i=linkedin" alt="Juliana Mancera" />
   </a> &nbsp;&nbsp;
 <a href="https://instagram.com/lia.da__" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lia.da__" height="30" width="30" />
+  <img align="center" src="https://skills.syvixor.com/api/icons?i=instagram" alt="lia.da__" />
   </a> &nbsp;&nbsp;
 <a href="https://www.leetcode.com/julsaurus" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julsaurus" height="30" width="30" />
+  <img align="center" src="https://skills.syvixor.com/api/icons?i=leetcode" alt="julsaurus" />
   </a> &nbsp;&nbsp;
   </p>
   <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developiing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
@@ -94,7 +94,7 @@
   </a>
 <h3>Design & Development Tools</h3>
  <p align="center"> 
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
   
   
 <div align="center">
