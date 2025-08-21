@@ -75,26 +75,26 @@
 <h3>Programming Languages:</h3>
   <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,html,css,bash" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,bash" />
   </a>
 <h3>Frontend Frameworks & Libraries:</h3>
   <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,tailwindcss,bootstrap,vite" />
   </a>
-<h3>Backend & Runtime Environments</h3>
+<h3>Backend & Runtime Environments:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,laravel" />
+    <img src="https://skillicons.dev/icons?i=supabase,flask,laravel" />
   </a>
-<h3>Databases & Cloud Platforms</h3>
+<h3>Databases & Cloud Platforms:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,mysql,firebase,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,googlecloud" />
   </a>
-<h3>Design & Development Tools</h3>
+<h3>Design & Development Tools:</h3>
  <p align="center"> 
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
   
   
 <div align="center">
