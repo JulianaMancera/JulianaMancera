@@ -2,7 +2,7 @@
 
 ![izme](https://github.com/user-attachments/assets/eae8f59f-53c6-4e2d-a657-46589a826e9a)
 
-<h2 align="center"> ~ Aspiring Data Analyst - Software Engineer - Site Reliabity Engineer - Web Developer ~ </h2>
+<h2 align="center"> ~ Aspiring Data Analyst - Site Reliabity Engineer - Web Developer ~ </h2>
 <p align="left">
   <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
   <br>
@@ -19,7 +19,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julsaurus" height="30" width="30" />
   </a> &nbsp;&nbsp;
   </p>
-  <p><strong>I'm a passionate Computer Science student who thrives on coding, managing databases, and creating innovative solutions to challenging problems.</strong></p><br>
+  <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developiing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
 </p>
 
 ## 🎓 Education
@@ -71,10 +71,31 @@
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
 </div>
 
-## ⚙️ Languages and Tools
-<p align="center"> 
+## 💻 Technical Skills
+<h3>Programming Languages:</h3>
+  <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,html,css,bash,nextjs,nodejs,react,tailwindcss,bootstrap,mysql,firebase,vite,flask,figma,git,linux,laravel,mint,googlecloud,photoshop,unity" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,html,css,bash" />
+  </a>
+<h3>Frontend Frameworks & Libraries:</h3>
+  <p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,bootstrap,vite" />
+  </a>
+<h3>Backend & Runtime Environments</h3>
+ <p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,laravel" />
+  </a>
+<h3>Databases & Cloud Platforms</h3>
+ <p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,mysql,firebase,googlecloud" />
+  </a>
+<h3>Design & Development Tools</h3>
+ <p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,linux,mint" />
   </a>
 
 <div align="center">
@@ -92,3 +113,5 @@
   
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
 </div>
+
+<img width="500" height="200" alt="IMG_5477" src="https://github.com/user-attachments/assets/6fa5fa88-7893-4287-a45e-314938995a88" />
