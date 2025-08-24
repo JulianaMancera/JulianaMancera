@@ -90,19 +90,16 @@
 <h3>Backend & Runtime Environments:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supab<img width="2112" height="1632" alt="CICS - Challenges and Realities After Graduation" src="https://github.com/user-attachments/assets/77f8938c-c8b1-4f2d-9c91-703ab3f5be9e" />
-ase,flask,laravel" />
+    <img src="https://skillicons.dev/icons?i=supabase,flask,laravel" />
   </a>
 <h3>Databases & Cloud Platforms:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,googlecloud" />
   </a>
-<h3>Design & Development [CICS - Challenges and Realities After Graduation.pdf](https://github.com/user-attachments/files/21955672/CICS.-.Challenges.and.Realities.After.Graduation.pdf)
-Tools:</h3>
+<h3>Design & Development Tools:</h3>
  <p align="center"> 
     <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
-  
   
 <div align="center">
   
