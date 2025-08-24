@@ -118,8 +118,4 @@ Tools:</h3>
 <div align="center">
   
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
-
-
-[CICS - Challenges and Realities After Graduation.pdf](https://github.com/user-attachments/files/21955710/CICS.-.Challenges.and.Realities.After.Graduation.pdf)
-
 </div>
