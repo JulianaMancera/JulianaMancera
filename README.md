@@ -2,7 +2,7 @@
 
 ![izme](https://github.com/user-attachments/assets/eae8f59f-53c6-4e2d-a657-46589a826e9a)
 
-<h2 align="center"> ~ Aspiring Data Analyst - Site Reliabity Engineer - Web Developer ~ </h2>
+<h2 align="center"> ~ Data Analyst - Site Reliabity Engineer - Web Developer ~ </h2>
 <p align="left">
   <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
   <br>
@@ -15,10 +15,6 @@
 <a href="https://instagram.com/lia.da__" target="blank">
   <img align="center" src="https://skills.syvixor.com/api/icons?i=instagram" alt="lia.da__" />
   </a> &nbsp;&nbsp;
-<a href="https://www.leetcode.com/julsaurus" target="blank">
-  <img align="center" src="https://skills.syvixor.com/api/icons?i=leetcode" alt="julsaurus" />
-  </a> &nbsp;&nbsp;
-  </p>
   <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developiing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
 </p>
 
