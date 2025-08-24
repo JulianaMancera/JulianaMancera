@@ -37,8 +37,7 @@
 | <img src="https://github.com/user-attachments/assets/76757f03-f2bd-4f5a-be02-bea87908df7f" width="100"> <br> <a href="https://www.credly.com/badges/75239e5e-a10b-40c2-a12d-8849e1f9096c/public_url"> Data Analysis Using Python | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM SkillsBuild | June 2025 |
-| <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 | 
-
+| <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 |
 
 ## 📜 Certifications
 <div align="center">
@@ -65,7 +64,16 @@
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8339061558F6FB5F2CC6602BB7E61C1F24547A361974349ABE5A7C6C33A7B1D7">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
-</div>
+
+
+## 📃 Seminars/Participations
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/21955664/COSMOS.pdf">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
+| <a href="https://github.com/user-attachments/files/21955674/CICS.-.Challenges.and.Realities.After.Graduation.pdf">Challenges and Realities After Graduation</a> | NEU CICS | March 2025 | 
+| <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
+
+
 
 ## 💻 Technical Skills
 <h3>Programming Languages:</h3>
@@ -81,14 +89,16 @@
 <h3>Backend & Runtime Environments:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,flask,laravel" />
+    <img src="https://skillicons.dev/icons?i=supab<img width="2112" height="1632" alt="CICS - Challenges and Realities After Graduation" src="https://github.com/user-attachments/assets/77f8938c-c8b1-4f2d-9c91-703ab3f5be9e" />
+ase,flask,laravel" />
   </a>
 <h3>Databases & Cloud Platforms:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,googlecloud" />
   </a>
-<h3>Design & Development Tools:</h3>
+<h3>Design & Development [CICS - Challenges and Realities After Graduation.pdf](https://github.com/user-attachments/files/21955672/CICS.-.Challenges.and.Realities.After.Graduation.pdf)
+Tools:</h3>
  <p align="center"> 
     <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,canva,linux,linuxmint" />
   
@@ -109,4 +119,3 @@
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
 </div>
 
-<img width="500" height="200" alt="IMG_5477" src="https://github.com/user-attachments/assets/6fa5fa88-7893-4287-a45e-314938995a88" />
