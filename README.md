@@ -72,6 +72,7 @@
 | <a href="https://github.com/user-attachments/files/21955664/COSMOS.pdf">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
 | <a href="https://github.com/user-attachments/files/21955674/CICS.-.Challenges.and.Realities.After.Graduation.pdf">Challenges and Realities After Graduation</a> | NEU CICS | March 2025 | 
 | <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
+| <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Progmramming</a> | NEU CICS | November 2022 | 
 
 
 
@@ -118,4 +119,3 @@ Tools:</h3>
   
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
 </div>
-
