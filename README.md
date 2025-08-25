@@ -46,6 +46,7 @@
 | :-------------: | :-----: | :-----------: |
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
+| <a href="https://www.netacad.com/certificates?issuanceId=8e37e852-b920-4ce5-ba67-cc496b5c9f65"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/12bc0fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
