@@ -15,7 +15,7 @@
 <a href="https://instagram.com/lia.da__" target="blank">
   <img align="center" src="https://skills.syvixor.com/api/icons?i=instagram" alt="lia.da__" />
   </a> &nbsp;&nbsp;
-  <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developiing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
+  <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
 </p>
 
 ## 🎓 Education
