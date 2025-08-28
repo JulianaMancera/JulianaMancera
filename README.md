@@ -30,6 +30,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/2e11d905-94dd-45f7-a81b-8a86d7606bf3" width="100"> <br> <a href="https://www.credly.com/badges/c35dbd18-42ee-4786-9754-7a518eb28caf/public_url"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
 | <img src="https://github.com/user-attachments/assets/8fdd696d-69ba-4a54-ac4e-97af7fea1c46" width="100"> <br> <a href="https://www.credly.com/badges/be18cb48-ffb0-4671-92f9-c4dfbdd8bdd3/public_url"> Deep Learning using TensorFlow | IBM SkillsBuild | July 2025 |
 | <img src="https://github.com/user-attachments/assets/db4b68b6-1843-4487-a327-b48819d34bc5" width="100"> <br> <a href="https://www.credly.com/badges/264e555a-1378-4136-a359-7710edf7ab4b/public_url"> Data Visualization using Python | IBM SkillsBuild | July 2025 |
@@ -44,6 +45,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.netacad.com/certificates?issuanceId=0c27f809-cbea-4693-b384-2b81ae8a2db2"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
 | <a href="https://www.netacad.com/certificates?issuanceId=8e37e852-b920-4ce5-ba67-cc496b5c9f65"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
