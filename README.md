@@ -2,7 +2,7 @@
 
 ![izme](https://github.com/user-attachments/assets/eae8f59f-53c6-4e2d-a657-46589a826e9a)
 
-<h2 align="center"> ~ Data Analyst - Site Reliabity Engineer - Web Developer ~ </h2>
+<h2 align="center"> ~ Data Analyst - Software Engineer - Site Reliabity Engineer - Web Developer ~ </h2>
 <p align="left">
   <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
   <br>
