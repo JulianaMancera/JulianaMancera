@@ -18,14 +18,14 @@
   <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
 </p>
 
-## 🎓 Education
+<h2 align="center"> 🎓 Education </h2>
 - **BS Computer Science** <br>
   - New Era University (2022-Present)
 - **STEM Graduate** <br>
   - Lagro High School (2020-2022)
 
 
-## 🎖️ Badges
+<h2 align="center"> 🎖️ Badges </h2>
 <div align="center">
 
 | Badge | Issued by | Month Issued | 
