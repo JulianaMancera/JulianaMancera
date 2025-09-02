@@ -24,7 +24,6 @@
 <h3 align="center"> STEM Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
-
 <h2 align="center"> 🎖️ Badges </h2>
 <div align="center">
 
@@ -115,7 +114,6 @@
 </div>
 
 ## 👾 Contributions
-<div align="center">
-  
+<div align="center">  
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
 </div>
