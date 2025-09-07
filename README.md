@@ -102,7 +102,7 @@
   </a>
 <h3>Design & Development Tools:</h3>
  <p align="center"> 
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,expo,canva,linux,linuxmint&theme=dark" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,expo,canva,linux,linuxmint" />
 
 <div align="center">
   
