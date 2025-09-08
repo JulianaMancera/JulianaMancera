@@ -83,7 +83,7 @@
 <h3>Programming Languages:</h3>
   <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,bash" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,dart,bash" />
   </a>
 <h3>Frontend Frameworks & Libraries:</h3>
   <p align="center"> 
@@ -102,16 +102,13 @@
   </a>
 <h3>Design & Development Tools:</h3>
  <p align="center"> 
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,expo,canva,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,flutter,expo,canva,linux,linuxmint" />
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160"/> ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160"/> <br/>
-<img src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" width="160" /> ![](https://nirzak-streak-stats.vercel.app/?user=JulianaMancera&theme=react&hide_border=false)
-<img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160"/> <br/>
-<img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="160" /> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="160" /><br/>
+![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=JulianaMancera&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ## 👾 Contributions
