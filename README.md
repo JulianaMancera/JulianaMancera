@@ -81,31 +81,40 @@
 ## 💻 Technical Skills
 <h3>Programming Languages:</h3>
   <p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,php,typescript,javascript,bash" />
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=java,python,php,html,css,typescript,javascript,bash" />
   </a>
+    
 <h3>Frontend Frameworks & Libraries:</h3>
   <p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nextjs,react,tailwindcss,bootstrap,vite" />
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=node,nextjs,bootstrap,tailwindcss,react,reactnative" />
   </a>
+    
+<h3>Data Visualization:</h3>
+  <p align="center"> 
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,tableau,powerbi,jupyter" />
+  </a>
+
 <h3>Backend & Runtime Environments:</h3>
  <p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,flask,laravel" />
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=supabase,flask,laravel,appwrite" />
   </a>
+  
 <h3>Databases & Cloud Platforms:</h3>
  <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,googlecloud" />
   </a>
-<h3>Design & Development Tools:</h3>
-<p align="center">
-    <div style="filter: invert(100%) hue-rotate(180deg);">
-        <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,expo,canva,linux,linuxmint" />
-    </div>
-</p>
-    
+   
+<h3>IDEs and Tools:</h3>
+  <p align="center"> 
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,intellij,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
+  </a>
+
 
 <div align="center">
   
