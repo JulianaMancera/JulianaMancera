@@ -78,7 +78,6 @@
 | <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Progmramming</a> | NEU CICS | November 2022 | 
 
 
-
 ## 💻 Technical Skills
 <h3>Programming Languages:</h3>
   <p align="center"> 
@@ -101,8 +100,12 @@
     <img src="https://skillicons.dev/icons?i=mysql,firebase,googlecloud" />
   </a>
 <h3>Design & Development Tools:</h3>
- <p align="center"> 
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,expo,canva,linux,linuxmint" />
+<p align="center">
+    <div style="filter: invert(100%) hue-rotate(180deg);">
+        <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,googlecolaboratory,tableau,vercel,figma,powerbi,opencv,git,gitbash,github,expo,canva,linux,linuxmint" />
+    </div>
+</p>
+    
 
 <div align="center">
   
