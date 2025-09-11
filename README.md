@@ -24,7 +24,6 @@
 <h3 align="center"> STEM Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
-
 <h2 align="center"> 🎖️ Badges </h2>
 <div align="center">
 
@@ -114,7 +113,6 @@
   <a href="https://skills.syvixor.com">
     <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
   </a>
-
 
 <div align="center">
   
