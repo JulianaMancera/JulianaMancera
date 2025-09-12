@@ -117,7 +117,7 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=JulianaMancera&theme=react&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=JulianaMancera&theme=react&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMancera&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
