@@ -12,8 +12,11 @@
    <a href="https://www.linkedin.com/in/juliana-mancera-84947b309/" target="blank">
   <img align="center" src="https://skills.syvixor.com/api/icons?i=linkedin" alt="Juliana Mancera" />
   </a> &nbsp;&nbsp;
-<a href="https://instagram.com/lia.da__" target="blank">
+  <a href="https://instagram.com/lia.da__" target="blank">
   <img align="center" src="https://skills.syvixor.com/api/icons?i=instagram" alt="lia.da__" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/lia.da06/" target="blank">
+  <img align="center" src="https://skills.syvixor.com/api/icons?i=facebook" alt="Juliana Mancera" />
   </a> &nbsp;&nbsp;
   <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
 </p>
