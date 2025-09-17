@@ -47,6 +47,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/271ea4cc4c79ec2b6bb49f20b7084bbb"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
 | <a href="https://www.netacad.com/certificates?issuanceId=0c27f809-cbea-4693-b384-2b81ae8a2db2"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
