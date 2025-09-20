@@ -47,6 +47,8 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
+| <a href="https://coursera.org/share/f8df46ea459cfd427d9af82594396b30"> Getting Started in Google Analytics | Coursera | September 2025 |
 | <a href="https://coursera.org/share/326c404b627704131d0d24148cea7511"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
 | <a href="https://www.netacad.com/certificates?issuanceId=0c27f809-cbea-4693-b384-2b81ae8a2db2"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
