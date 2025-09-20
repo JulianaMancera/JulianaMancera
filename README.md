@@ -32,6 +32,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> Data Analytics Essentials | AI Chatbots, RAG, & Governance with Data Workflows  | September 2025 |
 | <img src="https://github.com/user-attachments/assets/2e11d905-94dd-45f7-a81b-8a86d7606bf3" width="100"> <br> <a href="https://www.credly.com/badges/c35dbd18-42ee-4786-9754-7a518eb28caf/public_url"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
 | <img src="https://github.com/user-attachments/assets/8fdd696d-69ba-4a54-ac4e-97af7fea1c46" width="100"> <br> <a href="https://www.credly.com/badges/be18cb48-ffb0-4671-92f9-c4dfbdd8bdd3/public_url"> Deep Learning using TensorFlow | IBM SkillsBuild | July 2025 |
