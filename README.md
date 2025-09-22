@@ -48,6 +48,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
 | <a href="https://coursera.org/share/f8df46ea459cfd427d9af82594396b30"> Getting Started in Google Analytics | Coursera | September 2025 |
 | <a href="https://coursera.org/share/326c404b627704131d0d24148cea7511"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
