@@ -32,6 +32,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/a9bb96fc-b44c-4a3b-bc28-7af0c7950741" width="100"> <br> <a href="https://www.credly.com/badges/e0eb48f0-44a4-48d5-973e-f8690b30417c/public_url"> Data Science Essentials With Python | Cisco Networking Academy | September 2025 |
 | <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> AI Chatbots, RAG, & Governance with Data Workflows | KNIME | September 2025 |
 | <img src="https://github.com/user-attachments/assets/2e11d905-94dd-45f7-a81b-8a86d7606bf3" width="100"> <br> <a href="https://www.credly.com/badges/c35dbd18-42ee-4786-9754-7a518eb28caf/public_url"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
@@ -48,6 +49,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.netacad.com/certificates?issuanceId=bca7706a-135f-45af-a848-57d00c102c7c"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
 | <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
 | <a href="https://coursera.org/share/f8df46ea459cfd427d9af82594396b30"> Getting Started in Google Analytics | Coursera | September 2025 |
