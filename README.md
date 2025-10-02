@@ -49,6 +49,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://codesignal.com/learn/certificates/cmfml7yby00dek104f9cd6rz9/courses/1787"> Fixing Classical Models – Diagnosis & Regularization | CodeSignal | October 2025 |
 | <a href="https://www.netacad.com/certificates?issuanceId=bca7706a-135f-45af-a848-57d00c102c7c"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
 | <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
