@@ -50,17 +50,16 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://codesignal.com/learn/certificates/cmfml7yby00dek104f9cd6rz9/courses/1787"> Fixing Classical Models – Diagnosis & Regularization | CodeSignal | October 2025 |
-| <a href="https://www.netacad.com/certificates?issuanceId=bca7706a-135f-45af-a848-57d00c102c7c"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
+| <a href="https://github.com/user-attachments/files/22747529/Cisco.Network.Academy.-.Data.Science.Essentials.with.Python.pdf"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
 | <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
 | <a href="https://coursera.org/share/f8df46ea459cfd427d9af82594396b30"> Getting Started in Google Analytics | Coursera | September 2025 |
 | <a href="https://coursera.org/share/326c404b627704131d0d24148cea7511"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
-| <a href="https://www.netacad.com/certificates?issuanceId=0c27f809-cbea-4693-b384-2b81ae8a2db2"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
+| <a href="https://github.com/user-attachments/files/22747508/Cisco.Network.Academy.-.Data.Analytics.Essentials.pdf"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
-| <a href="https://www.netacad.com/certificates?issuanceId=8e37e852-b920-4ce5-ba67-cc496b5c9f65"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
-| <a href="https://courses.cognitiveclass.ai/certificates/12bc0fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
+| <a href="https://github.com/user-attachments/files/22747481/Cisco.Network.Academy.-.Introduction.to.Data.Science.pdf"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
+| <a href="https://courses.cognitiveclass.ai/certificates/12bc0[Uploading Cisco Network Academy - Data Analytics Essentials.pdf…]()fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442282_87990181749391600176.pdf"> Python Libraries for Data Science | Simplilearn | June 2025 |
@@ -83,6 +82,7 @@
 ## 📃 Seminars/Participations
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/22747380/Ethel.Programming.Computer.Programming.Services.pdf">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a> | Ethel Programming Computer Programming Services | October 2025 | 
 | <a href="https://github.com/user-attachments/files/21955664/COSMOS.pdf">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
 | <a href="https://github.com/user-attachments/files/21955674/CICS.-.Challenges.and.Realities.After.Graduation.pdf">Challenges and Realities After Graduation</a> | NEU CICS | March 2025 | 
 | <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
