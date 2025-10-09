@@ -2,7 +2,6 @@
 
 ![izme](https://github.com/user-attachments/assets/eae8f59f-53c6-4e2d-a657-46589a826e9a)
 
-
 <h2 align="center"> ~ Data Analyst - Software Engineer - Web Developer ~ </h2>
 <p align="left">
   <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
@@ -108,7 +107,7 @@
     <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,tableau,powerbi,jupyter" />
   </a>
 
-<h3>Backend & Runtime Environments:</h3>
+<h3>Backend & Runtime Environments: </h3>
  <p align="center"> 
   <a href="https://skills.syvixor.com">
     <img src="https://skills.syvixor.com/api/icons?i=supabase,flask,laravel,appwrite" />
