@@ -27,6 +27,13 @@
 <h3 align="center"> STEM Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
+<h2 align="center"> 🎓 Work Experience </h2>
+<div align="center">
+  
+| Company | Position | Start Month | 
+| :------------------: | :----------: |  :----------: | 
+| Simplevia Technologies Inc. | Business Analyst & Quality Assurance Intern | October 2025 |
+
 <h2 align="center"> 🎖️ Badges </h2>
 <div align="center">
 
