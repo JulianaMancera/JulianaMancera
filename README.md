@@ -39,6 +39,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/095eff29-1c55-4c79-9b13-e6fc507388b6" width="100"> <br> <a href="https://www.credly.com/badges/19307437-4264-4aad-b687-56fe1aab0eb5/public_url"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
 | <img src="https://github.com/user-attachments/assets/a9bb96fc-b44c-4a3b-bc28-7af0c7950741" width="100"> <br> <a href="https://www.credly.com/badges/e0eb48f0-44a4-48d5-973e-f8690b30417c/public_url"> Data Science Essentials With Python | Cisco Networking Academy | September 2025 |
 | <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> AI Chatbots, RAG, & Governance with Data Workflows | KNIME | September 2025 |
 | <img src="https://github.com/user-attachments/assets/2e11d905-94dd-45f7-a81b-8a86d7606bf3" width="100"> <br> <a href="https://www.credly.com/badges/c35dbd18-42ee-4786-9754-7a518eb28caf/public_url"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
