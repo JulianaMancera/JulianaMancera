@@ -57,6 +57,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/23200837/Introduction_to_Cybersecurity.pdf"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
 | <a href="https://github.com/user-attachments/files/22747529/Cisco.Network.Academy.-.Data.Science.Essentials.with.Python.pdf"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
 | <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
@@ -145,3 +146,4 @@
   
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
 </div>
+
