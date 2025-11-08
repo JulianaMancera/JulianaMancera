@@ -51,6 +51,7 @@
   
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8b98ea3c0d895ff1ba1b4213c3264dcc6cc1dd6a"> Understanding Data Engineering | Datacamp | November 2025 |
 | <a href="https://github.com/user-attachments/files/23200837/Introduction_to_Cybersecurity.pdf"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
 | <a href="https://github.com/user-attachments/files/22747529/Cisco.Network.Academy.-.Data.Science.Essentials.with.Python.pdf"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
 | <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
