@@ -92,13 +92,6 @@
 | <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
 | <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Progmramming</a> | NEU CICS | November 2022 | 
 
-<h2 align="center"> 🎓 Work Experience </h2>
-<div align="center">
-  
-| Company | Position | Start Month | 
-| :------------------: | :----------: |  :----------: | 
-| Simplevia Technologies Inc. | Business Analyst & Quality Assurance Intern | October 2025 |
-
 ## 💻 Technical Skills
 <h3>Programming Languages:</h3>
   <p align="center"> 
@@ -133,7 +126,7 @@
 <h3>IDEs and Tools:</h3>
   <p align="center"> 
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,clickup,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
   </a>
 
 <div align="center">
