@@ -52,6 +52,7 @@
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/57b60bdb657b6ed0dd65bafb72a8f1a3a3b5f52b"> Introduction to R | Datacamp | November 2025 |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd488bb931d37c138cca6dd92df8d34c87abe3cf"> Object-Oriented Programming in Python | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/373055da3128a2abaf160145fd4f0511011af91e"> Software Engineering Principles in Python | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/63784956c54f87154152ba0c878262394f04fd54"> Data Structures and Algorithms in Python | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8b98ea3c0d895ff1ba1b4213c3264dcc6cc1dd6a"> Understanding Data Engineering | Datacamp | November 2025 |
