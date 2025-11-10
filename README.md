@@ -22,9 +22,9 @@
 </p>
 
 <h2 align="center"> 🎓 Education </h2>
-<h3 align="center"> BS Computer Science </h3>
+<h3 align="center"> Bachelor of Science in Computer Science </h3>
 <p align="center"> New Era University (2022-Present) </p>
-<h3 align="center"> STEM Graduate </h3>
+<h3 align="center"> STEM Strand Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
 
