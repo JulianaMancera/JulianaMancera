@@ -33,6 +33,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/64483a65-835a-4fb4-941d-4494843d40a8" width="100"> <br> <a href="https://www.credly.com/badges/f59ada42-b274-4159-be82-d7ce7b44f965/public_url"> Introduction to IoT | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/095eff29-1c55-4c79-9b13-e6fc507388b6" width="100"> <br> <a href="https://www.credly.com/badges/19307437-4264-4aad-b687-56fe1aab0eb5/public_url"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
 | <img src="https://github.com/user-attachments/assets/a9bb96fc-b44c-4a3b-bc28-7af0c7950741" width="100"> <br> <a href="https://www.credly.com/badges/e0eb48f0-44a4-48d5-973e-f8690b30417c/public_url"> Data Science Essentials With Python | Cisco Networking Academy | September 2025 |
 | <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> AI Chatbots, RAG, & Governance with Data Workflows | KNIME | September 2025 |
@@ -48,9 +49,10 @@
 
 ## 📜 Certifications
 <div align="center">
-  
+
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | September 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/57b60bdb657b6ed0dd65bafb72a8f1a3a3b5f52b"> Introduction to R | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd488bb931d37c138cca6dd92df8d34c87abe3cf"> Object-Oriented Programming in Python | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/373055da3128a2abaf160145fd4f0511011af91e"> Software Engineering Principles in Python | Datacamp | November 2025 |
