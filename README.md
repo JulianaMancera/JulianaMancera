@@ -53,7 +53,8 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | September 2025 |
+| <a href="https://github.com/user-attachments/files/23925761/Cisco.Network.Academy.-.Computer.Hardware.Basics.pdf"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
+| <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | December 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/57b60bdb657b6ed0dd65bafb72a8f1a3a3b5f52b"> Introduction to R | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd488bb931d37c138cca6dd92df8d34c87abe3cf"> Object-Oriented Programming in Python | Datacamp | November 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/373055da3128a2abaf160145fd4f0511011af91e"> Software Engineering Principles in Python | Datacamp | November 2025 |
