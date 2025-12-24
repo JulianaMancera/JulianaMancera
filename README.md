@@ -27,12 +27,12 @@
 <h3 align="center"> STEM Strand Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
-
 <h2 align="center"> 🎖️ Badges </h2>
 <div align="center">
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/2019d8c8-d14f-4282-9162-f50d97fff737" width="100"> <br> <a href="https://www.credly.com/badges/df0d7b04-3dfe-4645-bc60-c113b29260fc/public_url"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/d3b38d58-6a0b-48b1-a989-629397d6a621" width="100"> <br> <a href="https://www.credly.com/badges/a2e2dfbc-d165-49c9-8f8c-53cdd85ce7be/public_url"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/64483a65-835a-4fb4-941d-4494843d40a8" width="100"> <br> <a href="https://www.credly.com/badges/f59ada42-b274-4159-be82-d7ce7b44f965/public_url"> Introduction to IoT | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/095eff29-1c55-4c79-9b13-e6fc507388b6" width="100"> <br> <a href="https://www.credly.com/badges/19307437-4264-4aad-b687-56fe1aab0eb5/public_url"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
@@ -53,6 +53,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/24324197/Cisco.Networking.Academy.-.Operating_Systems_Basics.pdf"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23925761/Cisco.Network.Academy.-.Computer.Hardware.Basics.pdf"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | December 2025 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/57b60bdb657b6ed0dd65bafb72a8f1a3a3b5f52b"> Introduction to R | Datacamp | November 2025 |
