@@ -53,7 +53,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://coursera.org/share/ada0e96061ed292abc21437a833d90f6"> Foundations: Data, Data, Everywhere | Google (Coursera) | January 2026 |
+| <a href="https://coursera.org/share/ada0e96061ed292abc21437a833d90f6"> Foundations: Data, Data, Everywhere | Google | January 2026 |
 | <a href="https://github.com/user-attachments/files/24324197/Cisco.Networking.Academy.-.Operating_Systems_Basics.pdf"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23925761/Cisco.Network.Academy.-.Computer.Hardware.Basics.pdf"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | December 2025 |
@@ -64,7 +64,7 @@
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8b98ea3c0d895ff1ba1b4213c3264dcc6cc1dd6a"> Understanding Data Engineering | Datacamp | November 2025 |
 | <a href="https://github.com/user-attachments/files/23200837/Introduction_to_Cybersecurity.pdf"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
 | <a href="https://github.com/user-attachments/files/22747529/Cisco.Network.Academy.-.Data.Science.Essentials.with.Python.pdf"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
-| <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | Coursera | September 2025 |
+| <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | IBM | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
 | <a href="https://coursera.org/share/f8df46ea459cfd427d9af82594396b30"> Getting Started in Google Analytics | Coursera | September 2025 |
 | <a href="https://coursera.org/share/326c404b627704131d0d24148cea7511"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
