@@ -53,6 +53,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/ada0e96061ed292abc21437a833d90f6"> Foundations: Data, Data, Everywhere | Google (Coursera) | January 2026 |
 | <a href="https://github.com/user-attachments/files/24324197/Cisco.Networking.Academy.-.Operating_Systems_Basics.pdf"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23925761/Cisco.Network.Academy.-.Computer.Hardware.Basics.pdf"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | December 2025 |
