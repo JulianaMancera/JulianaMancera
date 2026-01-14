@@ -33,7 +33,7 @@
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
 | <img src="https://github.com/user-attachments/assets/2019d8c8-d14f-4282-9162-f50d97fff737" width="100"> <br> <a href="https://www.credly.com/badges/df0d7b04-3dfe-4645-bc60-c113b29260fc/public_url"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
-| <img src="https://github.com/user-attachments/assets/d3b38d58-6a0b-48b1-a989-629397d6a621" width="100"> <br> <a href="https://www.credly.com/badges/a2e2dfbc-d165-49c9-8f8c-53cdd85ce7be/public_url"> Computer Hardware Basics | Cisco Networkingfffff Academy | December 2025 |
+| <img src="https://github.com/user-attachments/assets/d3b38d58-6a0b-48b1-a989-629397d6a621" width="100"> <br> <a href="https://www.credly.com/badges/a2e2dfbc-d165-49c9-8f8c-53cdd85ce7be/public_url"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/64483a65-835a-4fb4-941d-4494843d40a8" width="100"> <br> <a href="https://www.credly.com/badges/f59ada42-b274-4159-be82-d7ce7b44f965/public_url"> Introduction to IoT | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/095eff29-1c55-4c79-9b13-e6fc507388b6" width="100"> <br> <a href="https://www.credly.com/badges/19307437-4264-4aad-b687-56fe1aab0eb5/public_url"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
 | <img src="https://github.com/user-attachments/assets/a9bb96fc-b44c-4a3b-bc28-7af0c7950741" width="100"> <br> <a href="https://www.credly.com/badges/e0eb48f0-44a4-48d5-973e-f8690b30417c/public_url"> Data Science Essentials With Python | Cisco Networking Academy | September 2025 |
