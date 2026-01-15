@@ -53,6 +53,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/d271ecd36f98f13cfbe36444e53aa152"> Agile Project Management | Google | January 2026 |
 | <a href="https://coursera.org/share/a5af072e6af1895462356108cb8791db"> Ask Questions to Make Data-Driven Decisions | Google | January 2026 |
 | <a href="https://coursera.org/share/ada0e96061ed292abc21437a833d90f6"> Foundations: Data, Data, Everywhere | Google | January 2026 |
 | <a href="https://github.com/user-attachments/files/24324197/Cisco.Networking.Academy.-.Operating_Systems_Basics.pdf"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
