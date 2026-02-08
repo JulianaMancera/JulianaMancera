@@ -109,13 +109,13 @@
 <h3>Programming Languages:</h3>
   <p align="center"> 
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=java,python,php,html,css,typescript,javascript,bash" />
+    <img src="https://skills.syvixor.com/api/icons?i=java,python,php,html,css,typescript,javascript,bash,dart" />
   </a>
     
 <h3>Frontend Frameworks & Libraries:</h3>
   <p align="center"> 
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=node,nextjs,bootstrap,tailwindcss,react,reactnative" />
+    <img src="https://skills.syvixor.com/api/icons?i=node,nextjs,bootstrap,tailwindcss,react,reactnative,flutter" />
   </a>
     
 <h3>Data Visualization:</h3>
