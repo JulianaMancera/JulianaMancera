@@ -139,7 +139,7 @@
 <h3>IDEs and Tools:</h3>
   <p align="center"> 
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,clickup,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,androidstudio,clickup,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
   </a>
 
 <div align="center">
