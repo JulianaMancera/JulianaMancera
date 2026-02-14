@@ -53,6 +53,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://labs.cyberwarfare.live/credential/achievement/6990323b5f7c23c92b936099"> Certified Red Team Analyst - CRTA | Cyberware Labs | February 2026 |
 | <a href="https://edu.google.accredible.com/8797e293-0b77-464a-9b5a-e0b31c796389#acc.ORb7dJVM"> Gemini Certified University Student | Google for Education | January 2026 |
 | <a href="https://coursera.org/share/d271ecd36f98f13cfbe36444e53aa152"> Agile Project Management | Google | January 2026 |
 | <a href="https://coursera.org/share/a5af072e6af1895462356108cb8791db"> Ask Questions to Make Data-Driven Decisions | Google | January 2026 |
