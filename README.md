@@ -104,7 +104,8 @@
 | <a href="https://github.com/user-attachments/files/21955664/COSMOS.pdf">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
 | <a href="https://github.com/user-attachments/files/21955674/CICS.-.Challenges.and.Realities.After.Graduation.pdf">Challenges and Realities After Graduation</a> | NEU CICS | March 2025 | 
 | <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
-| <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Progmramming</a> | NEU CICS | November 2022 | 
+| <a href="https://github.com/user-attachments/assets/a29712a9-85c3-4a57-9543-2ed1e0c047fa">III International Scientific and Practical Conference</a> | Moscow Metropolitan Governance Yuri Luzhkov University | April 2023 | 
+| <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Programming </a> | NEU CICS | November 2022 | 
 
 ## 💻 Technical Skills
 <h3>Programming Languages:</h3>
