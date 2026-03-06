@@ -32,6 +32,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/de168092-5844-4931-bad2-cdbd327e3e37" width="100"> <br> <a href="https://www.credly.com/badges/958d6ddd-c471-4803-9ee9-cf12d331f6ce/public_url"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
 | <img src="https://github.com/user-attachments/assets/2019d8c8-d14f-4282-9162-f50d97fff737" width="100"> <br> <a href="https://www.credly.com/badges/df0d7b04-3dfe-4645-bc60-c113b29260fc/public_url"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/d3b38d58-6a0b-48b1-a989-629397d6a621" width="100"> <br> <a href="https://www.credly.com/badges/a2e2dfbc-d165-49c9-8f8c-53cdd85ce7be/public_url"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/64483a65-835a-4fb4-941d-4494843d40a8" width="100"> <br> <a href="https://www.credly.com/badges/f59ada42-b274-4159-be82-d7ce7b44f965/public_url"> Introduction to IoT | Cisco Networking Academy | December 2025 |
@@ -51,8 +52,10 @@
 ## 📜 Certifications
 <div align="center">
 
+
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/25788466/Introduction_to_Modern_AI_certificate_julianamancera.pdf"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
 | <a href="https://labs.cyberwarfare.live/credential/achievement/6990323b5f7c23c92b936099"> Certified Red Team Analyst - CRTA | Cyberware Labs | February 2026 |
 | <a href="https://edu.google.accredible.com/8797e293-0b77-464a-9b5a-e0b31c796389#acc.ORb7dJVM"> Gemini Certified University Student | Google for Education | January 2026 |
 | <a href="https://coursera.org/share/d271ecd36f98f13cfbe36444e53aa152"> Agile Project Management | Google | January 2026 |
@@ -156,4 +159,3 @@
   
 ![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
 </div>
-
