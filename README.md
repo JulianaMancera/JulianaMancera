@@ -1,5 +1,5 @@
 # Hello, I'm Juls👋 
-![izme](https://github.com/user-attachments/assets/efb425f3-c674-4fb6-83d2-73e856ad989c)
+![izme](https://github.com/user-attachments/assets/0879881f-59d9-4339-bf33-2f227db036ae)
 
 <h2 align="center"> ~ Data Analyst - Software Engineer - Web Developer ~ </h2>
 <p align="left">
