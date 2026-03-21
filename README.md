@@ -101,6 +101,7 @@
 ## 📃 Seminars/Participations
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.vibecoders.ph/cert/GAI2Z26-67B5"> Gen AI to Z: A Career Summit in an AI-Driven World</a> | Vibe Coders PH | March 2026 | 
 | <a href="https://drive.google.com/file/d/18JVuPyR71Wyhy2wu4Rn-t-9ywEwzrQnN/view"> AI Powered Project Manager Masterclass</a> | TECHADEMY | October 2025 | 
 | <a href="https://github.com/user-attachments/files/22747380/Ethel.Programming.Computer.Programming.Services.pdf">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a> | Ethel Programming Computer Programming Services | October 2025 | 
 | <a href="https://github.com/user-attachments/files/21955664/COSMOS.pdf">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
