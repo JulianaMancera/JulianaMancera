@@ -54,6 +54,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/245b86afd07c24c9afc143b643986a8e"> Introduction to Mobile App Development | Coursera | April 2026 |
 | <a href="https://coursera.org/share/de6b2c3988456f8e9945d7c41904060c"> Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | April 2026 |
 | <a href="https://github.com/user-attachments/files/25788466/Introduction_to_Modern_AI_certificate_julianamancera.pdf"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
 | <a href="https://labs.cyberwarfare.live/credential/achievement/6990323b5f7c23c92b936099"> Certified Red Team Analyst - CRTA | Cyberware Labs | February 2026 |
