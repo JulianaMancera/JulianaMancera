@@ -1,7 +1,7 @@
 # Hello, I'm Juls👋 
 ![izme](https://github.com/user-attachments/assets/0879881f-59d9-4339-bf33-2f227db036ae)
 
-<h2 align="center"> ~ Data Analyst - Software Engineer - Web Developer ~ </h2>
+<h2 align="center"> ~ Data Analyst - Software Engineer - Mobile/Web Developer ~ </h2>
 <p align="left">
   <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
   <br>
