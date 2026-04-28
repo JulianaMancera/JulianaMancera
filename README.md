@@ -54,7 +54,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="blob:https://skillbuilder.aws/9156af8c-9b67-4ac3-b05c-16acc41682ef"> Amazon API Gateway for Serverless Applications | AWS | April 2026 |
+| <a href="https://skillbuilder.aws/9156af8c-9b67-4ac3-b05c-16acc41682ef"> Amazon API Gateway for Serverless Applications | AWS | April 2026 |
 | <a href="https://coursera.org/share/245b86afd07c24c9afc143b643986a8e"> Introduction to Mobile App Development | Coursera | April 2026 |
 | <a href="https://coursera.org/share/de6b2c3988456f8e9945d7c41904060c"> Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | April 2026 |
 | <a href="https://github.com/user-attachments/files/25788466/Introduction_to_Modern_AI_certificate_julianamancera.pdf"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
