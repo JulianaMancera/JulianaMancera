@@ -26,8 +26,15 @@
 <h3 align="center"> STEM Strand Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
+---
+
 <h2 align="center"> 🎖️ Badges </h2>
+
 <div align="center">
+
+<details>
+<summary><b>Click to view all Badges </b></summary>
+<br>
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
@@ -48,9 +55,19 @@
 | <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 |
 
-## 📜 Certifications
+</details>
+
+</div>
+
+---
+
+<h2 align="center"> 📜 Certifications </h2>
+
 <div align="center">
 
+<details>
+<summary><b>Click to view all Certifications</b></summary>
+<br>
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
@@ -83,7 +100,7 @@
 | <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
 | <a href="https://github.com/user-attachments/files/22747481/Cisco.Network.Academy.-.Introduction.to.Data.Science.pdf"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
-| <a href="https://courses.cognitiveclass.ai/certificates/12bc0[Uploading Cisco Network Academy - Data Analytics Essentials.pdf…]()fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
+| <a href="https://courses.cognitiveclass.ai/certificates/12bc0fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442282_87990181749391600176.pdf"> Python Libraries for Data Science | Simplilearn | June 2025 |
@@ -94,7 +111,7 @@
 | <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
 | <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8438932_87990181749300777266.pdf">  Azure Fundamentals | Simplilearn | June 2025 |
+| <a href="https://certificates.simplicdn.net/share/8438932_87990181749300777266.pdf"> Azure Fundamentals | Simplilearn | June 2025 |
 | <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 | 
 | <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp | October 2024 | 
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> | Oracle | November 2023 | 
@@ -102,8 +119,20 @@
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
 
+</details>
 
-## 📃 Seminars/Participations
+</div>
+
+---
+
+<h2 align="center">📃 Seminars/Participations </h2>
+
+<div align="center">
+
+<details>
+<summary><b> Click to view all Seminars & Participations </b></summary>
+<br>
+
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://www.vibecoders.ph/cert/GAI2Z26-67B5"> Gen AI to Z: A Career Summit in an AI-Driven World</a> | Vibe Coders PH | March 2026 | 
@@ -114,6 +143,12 @@
 | <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
 | <a href="https://github.com/user-attachments/assets/a29712a9-85c3-4a57-9543-2ed1e0c047fa">III International Scientific and Practical Conference</a> | Moscow Metropolitan Governance Yuri Luzhkov University | April 2023 | 
 | <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Programming </a> | NEU CICS | November 2022 | 
+
+</details>
+
+</div>
+
+---
 
 ## 💻 Technical Skills
 <h3>Programming Languages:</h3>
