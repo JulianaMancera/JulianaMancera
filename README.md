@@ -54,6 +54,8 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://verify.skilljar.com/c/fzm67c92p55m"> Claude Code 101 | Anthropic Education | April 2026 |
+| <a href="https://verify.skilljar.com/c/qqwt7dbmfypp"> Claude 101 | Anthropic Education | April 2026 |
 | <a href="https://github.com/user-attachments/files/27148891/Amazon.API.Gateway.certification.pdf"> Amazon API Gateway for Serverless Applications | AWS Training & Certification | April 2026 |
 | <a href="https://coursera.org/share/245b86afd07c24c9afc143b643986a8e"> Introduction to Mobile App Development | Coursera | April 2026 |
 | <a href="https://coursera.org/share/de6b2c3988456f8e9945d7c41904060c"> Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | April 2026 |
