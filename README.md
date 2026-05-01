@@ -30,6 +30,7 @@
 
 ---
 
+<a name="badges"></a>
 <h2 align="center"> 🎖️ Badges </h2>
 
 <div align="center">
@@ -58,9 +59,7 @@
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 |
 
 <br>
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-⬆-blue?style=for-the-badge" /></a>
-</p>
+<p align="center"><a href="#badges">⬆ Back to Top</a></p>
 
 </details>
 
@@ -68,6 +67,7 @@
 
 ---
 
+<a name="certifications"></a>
 <h2 align="center"> 📜 Certifications </h2>
 
 <div align="center">
@@ -127,9 +127,7 @@
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
 
 <br>
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-⬆-blue?style=for-the-badge" /></a>
-</p>
+<p align="center"><a href="#certifications">⬆ Back to Top</a></p>
 
 </details>
 
@@ -137,6 +135,7 @@
 
 ---
 
+<a name="seminars"></a>
 <h2 align="center">📃 Seminars/Participations </h2>
 
 <div align="center">
@@ -157,9 +156,8 @@
 | <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Programming </a> | NEU CICS | November 2022 | 
 
 <br>
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-⬆-blue?style=for-the-badge" /></a>
-</p>
+<p align="center"><a href="#seminars">⬆ Back to Top</a></p>
+
 </details>
 
 </div>
