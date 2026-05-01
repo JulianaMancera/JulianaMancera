@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Hello, I'm Juls👋 
 ![izme](https://github.com/user-attachments/assets/0879881f-59d9-4339-bf33-2f227db036ae)
 
@@ -54,6 +56,11 @@
 | <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 |
+
+<br>
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-⬆-blue?style=for-the-badge" /></a>
+</p>
 
 </details>
 
@@ -119,6 +126,11 @@
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
 | <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
 
+<br>
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-⬆-blue?style=for-the-badge" /></a>
+</p>
+
 </details>
 
 </div>
@@ -144,6 +156,10 @@
 | <a href="https://github.com/user-attachments/assets/a29712a9-85c3-4a57-9543-2ed1e0c047fa">III International Scientific and Practical Conference</a> | Moscow Metropolitan Governance Yuri Luzhkov University | April 2023 | 
 | <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Programming </a> | NEU CICS | November 2022 | 
 
+<br>
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-⬆-blue?style=for-the-badge" /></a>
+</p>
 </details>
 
 </div>
