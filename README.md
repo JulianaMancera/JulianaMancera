@@ -226,7 +226,7 @@
 ### Design & Productivity
 <p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=figma,canva,clickup" />
+    <img src="https://skills.syvixor.com/api/icons?i=figma,canva,drawio,clickup,mermaid" />
   </a>
 </p>
 
