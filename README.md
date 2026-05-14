@@ -166,41 +166,83 @@
 ---
 
 ## 💻 Technical Skills
-<h3>Programming Languages:</h3>
-  <p align="center"> 
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=java,python,php,html,css,typescript,javascript,bash,dart" />
-  </a>
-    
-<h3>Frontend Frameworks & Libraries:</h3>
-  <p align="center"> 
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=node,nextjs,bootstrap,tailwindcss,react,reactnative,flutter" />
-  </a>
-    
-<h3>Data Visualization:</h3>
-  <p align="center"> 
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,tableau,powerbi,jupyter" />
-  </a>
 
-<h3>Backend & Runtime Environments: </h3>
- <p align="center"> 
+### Languages & Markup
+<p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=supabase,flask,laravel,appwrite" />
+    <img src="https://skills.syvixor.com/api/icons?i=java,python,php,typescript,javascript,bash,dart,html,css" />
   </a>
-  
-<h3>Databases & Cloud Platforms:</h3>
- <p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,googlecloud" />
-  </a>
-   
-<h3>IDEs and Tools:</h3>
-  <p align="center"> 
+</p>
+
+### Frontend Development
+<p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,androidstudio,clickup,canva,figma,github,git,gitbash,expo,vercel,opencv,linux,linuxmint" />
+    <img src="https://skills.syvixor.com/api/icons?i=react,nextjs,bootstrap,tailwindcss" />
   </a>
+</p>
+
+### Mobile Development
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=reactnative,flutter" />
+  </a>
+</p>
+
+### Backend & Runtimes
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=node,flask,laravel" />
+  </a>
+</p>
+
+### Databases & Cloud
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=mysql,firebase,supabase,appwrite,googlecloud" />
+  </a>
+</p>
+
+### Data Science & Analytics
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory,jupyter,tableau,powerbi,opencv" />
+  </a>
+</p>
+
+### AI Tools
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=claude,gemini,antigravity" />
+  </a>
+</p>
+
+### Testing
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=playwright" />
+  </a>
+</p>
+
+### Design & Productivity
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=figma,canva,clickup" />
+  </a>
+</p>
+
+### DevOps & Version Control
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=git,gitbash,github,vercel,expo,linux,linuxmint" />
+  </a>
+</p>
+
+### IDEs & Editors
+<p align="center">
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,androidstudio,cursor" />
+  </a>
+</p>
 
 <div align="center">
   
