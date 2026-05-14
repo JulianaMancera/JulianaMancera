@@ -198,7 +198,7 @@
 ### Databases & Cloud
 <p align="center">
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=mysql,firebase,supabase,appwrite,googlecloud" />
+    <img src="https://skills.syvixor.com/api/icons?i=mysql,sqlite,firebase,supabase,appwrite,googlecloud" />
   </a>
 </p>
 
