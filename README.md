@@ -257,5 +257,5 @@
 ## 👾 Contributions
 <div align="center">
   
-![snake gif](https://github.com/JulianaMancera/JulianaMancera/blob/output/github-snake-dark.svg)
+![Space Shooter](https://raw.githubusercontent.com/JulianaMancera/JulianaMancera/main/game.gif)
 </div>
