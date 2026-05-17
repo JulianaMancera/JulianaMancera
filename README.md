@@ -216,13 +216,6 @@
   </a>
 </p>
 
-### Testing
-<p align="center">
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=playwright" />
-  </a>
-</p>
-
 ### Design & Productivity
 <p align="center">
   <a href="https://skills.syvixor.com">
