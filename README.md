@@ -146,6 +146,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/assets/c88d68fc-d1a4-4cea-9a95-dce6d64e9272"> Basics of Cloud Technology and Data Security on the Cloud /a> | NEU CICS | March 2026 | 
 | <a href="https://www.vibecoders.ph/cert/GAI2Z26-67B5"> Gen AI to Z: A Career Summit in an AI-Driven World</a> | Vibe Coders PH | March 2026 | 
 | <a href="https://github.com/user-attachments/files/27546703/SENPAI.Cert.MANCERA.pdf"> SENPAI 3.0 </a> | ACSS - NEU CICS | February 2026 | 
 | <a href="https://drive.google.com/file/d/18JVuPyR71Wyhy2wu4Rn-t-9ywEwzrQnN/view"> AI Powered Project Manager Masterclass</a> | TECHADEMY | October 2025 | 
