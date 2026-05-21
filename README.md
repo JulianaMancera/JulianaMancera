@@ -147,27 +147,27 @@
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="files/MANCERA.jpg"> Basics of Cloud Technology and Data Security on the Cloud </a> | NEU CICS | March 2026 |
-| <a href="https://github.com/user-attachments/assets/a302d0a4-715c-42a1-b4e6-57b2d54d241b"> Life After Graduation: The Reality No One Talks About</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/37019279-e85a-4828-92cf-aba8e55b99f7"> Building A Home without Windows: A Student’s Guide to Linux</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/046d677a-c5aa-448f-935f-38bd38ab58ab"> Agentic AI</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/1a12be6b-6cd0-40da-8109-f870b1d53cc6"> Web Penetration Testing 101</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/e30a93f3-b7ce-46e7-b8b1-f4ca4cf3cc53"> Behind the Scenes of Game QA: Testing, NDA’s and Daily Life</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/e0c793ef-a4cd-46b2-95da-8cc29d830fa2"> Power UP your PASSION: Careers in the Gaming World</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/ec0e04dc-5def-4665-87ce-ef27aff8470c"> Modern Web Development: How a Full Stack Web App Goes Live</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/84c9b842-f655-4e88-89ea-9203482e5f62"> Beyond the Degree: Skills and Competencies for your Future Tech</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/265661e9-41a2-4d64-abcd-4e5d054bc67a"> Rewrite your Legacy: From Comics to Hollywood – A 2D Illustrator’s Journey</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/0826f43d-ae47-433f-a061-07dec896d91c"> Business Communication</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/31d9fb3a-45e1-4b55-81d4-8c17cf24811d"> How to Earn in Animation</a> | NEU CICS | March 2026 | 
-| <a href="https://github.com/user-attachments/assets/e616eb8e-023c-457c-9d6d-75965da83ede"> From Frame to Scene: I have a Degree in Animation. Now What’s Next?</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T1_S3.png"> Life After Graduation: The Reality No One Talks About</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T1_S3.png"> Building A Home without Windows: A Student’s Guide to Linux</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T3_S2.png"> Agentic AI</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T4_S2.png"> Web Penetration Testing 101</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T5_S7.png"> Behind the Scenes of Game QA: Testing, NDA’s and Daily Life</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T6_S5.png"> Power UP your PASSION: Careers in the Gaming World</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T1_S163.png"> Modern Web Development: How a Full Stack Web App Goes Live</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T2_S150.png"> Beyond the Degree: Skills and Competencies for your Future Tech</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T3_S124.png"> Rewrite your Legacy: From Comics to Hollywood – A 2D Illustrator’s Journey</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T4_S224.png"> Business Communication</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T5_S223.png"> How to Earn in Animation</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T6_S207.png"> From Frame to Scene: I have a Degree in Animation. Now What’s Next?</a> | NEU CICS | March 2026 | 
 | <a href="https://www.vibecoders.ph/cert/GAI2Z26-67B5"> Gen AI to Z: A Career Summit in an AI-Driven World</a> | Vibe Coders PH | March 2026 | 
-| <a href="https://github.com/user-attachments/files/27546703/SENPAI.Cert.MANCERA.pdf"> SENPAI 3.0 </a> | ACSS - NEU CICS | February 2026 | 
-| <a href="https://drive.google.com/file/d/18JVuPyR71Wyhy2wu4Rn-t-9ywEwzrQnN/view"> AI Powered Project Manager Masterclass</a> | TECHADEMY | October 2025 | 
-| <a href="https://github.com/user-attachments/files/22747380/Ethel.Programming.Computer.Programming.Services.pdf">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a> | Ethel Programming Computer Programming Services | October 2025 | 
-| <a href="https://github.com/user-attachments/files/21955664/COSMOS.pdf">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
-| <a href="https://github.com/user-attachments/files/21955674/CICS.-.Challenges.and.Realities.After.Graduation.pdf">Challenges and Realities After Graduation</a> | NEU CICS | March 2025 | 
-| <a href="https://github.com/user-attachments/files/21955675/CICS.-.Data.Driven.Facilities.Management.The.Future.of.Smart.Spaces.pdf">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
-| <a href="https://github.com/user-attachments/assets/a29712a9-85c3-4a57-9543-2ed1e0c047fa">III International Scientific and Practical Conference</a> | Moscow Metropolitan Governance Yuri Luzhkov University | April 2023 | 
-| <a href="https://github.com/user-attachments/files/21955699/SENPAI.pdf">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Programming </a> | NEU CICS | November 2022 | 
+| <a href="files/SENPAI Cert MANCERA.png"> SENPAI 3.0 </a> | ACSS - NEU CICS | February 2026 | 
+| <a href="files/Juliana_Mancera_AI_for_PM_5798N-1.png"> AI Powered Project Manager Masterclass</a> | TECHADEMY | October 2025 | 
+| <a href="files/Ethel Programming Computer Programming Services-1.png">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a> | Ethel Programming Computer Programming Services | October 2025 | 
+| <a href="files/cosmos.png">Eyes on the COSMOS: A nationwide Telescope Viewing Celebration</a> | Philippine Space Agency / Organization of NEU of Astronomy | August 2025 | 
+| <a href="files/CICS - Challenges and Realities After Graduation-1.png">Challenges and Realities After Graduation</a> | NEU CICS | March 2025 | 
+| <a href="files/CICS - Data Driven Facilities Management The Future of Smart Spaces-1.png">Data Driven Facilities Management: The Future of Smart Spaces</a> | NEU CICS | March 2025 | 
+| <a href="files/russian.png">III International Scientific and Practical Conference</a> | Moscow Metropolitan Governance Yuri Luzhkov University | April 2023 | 
+| <a href="files/senpai.png">SENPAI 2.0 (Senior Programming Assistance Integration) - Fundamentals of Programming </a> | NEU CICS | November 2022 | 
 
 <br>
 <p align="center"><a href="#seminars">⬆ Back to Top</a></p>
