@@ -146,7 +146,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://github.com/user-attachments/assets/c88d68fc-d1a4-4cea-9a95-dce6d64e9272"> Basics of Cloud Technology and Data Security on the Cloud </a> | NEU CICS | March 2026 |
+| <a href="files/MANCERA.jpg"> Basics of Cloud Technology and Data Security on the Cloud </a> | NEU CICS | March 2026 |
 | <a href="https://github.com/user-attachments/assets/a302d0a4-715c-42a1-b4e6-57b2d54d241b"> Life After Graduation: The Reality No One Talks About</a> | NEU CICS | March 2026 | 
 | <a href="https://github.com/user-attachments/assets/37019279-e85a-4828-92cf-aba8e55b99f7"> Building A Home without Windows: A Student’s Guide to Linux</a> | NEU CICS | March 2026 | 
 | <a href="https://github.com/user-attachments/assets/046d677a-c5aa-448f-935f-38bd38ab58ab"> Agentic AI</a> | NEU CICS | March 2026 | 
