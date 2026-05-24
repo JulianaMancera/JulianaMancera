@@ -178,8 +178,8 @@
 
 ---
 
-## 💻 Technical Skills
 
+<h2 align="center"> 💻 Technical Skills </h2>
 ### Languages & Markup
 <p align="center">
   <a href="https://skills.syvixor.com">
