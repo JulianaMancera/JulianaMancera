@@ -244,7 +244,7 @@
   </a>
 </p>
 
-### IDEs & Editors
+### IDEs & other Editors
 <p align="center">
   <a href="https://skills.syvixor.com">
     <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,webstorm,intellij,androidstudio,cursor" />
