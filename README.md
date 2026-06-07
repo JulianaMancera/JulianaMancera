@@ -78,6 +78,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b7d75933516275e796702188ff0c25703e5d3964"> Software Development with Claude Code | Datacamp | June 2026 |
 | <a href="https://www.datacamp.com/skill-verification/AIF0022675650495"> AI Fundamentals | Datacamp | June 2026 |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3976d7b743e6d116f4b9aa04e4dad8a7669a7e45?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"> Introduction to GitHub Concepts | Datacamp | June 2026 |
 | <a href="https://verify.skilljar.com/c/fzm67c92p55m"> Claude Code 101 | Anthropic Education | April 2026 |
