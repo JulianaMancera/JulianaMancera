@@ -19,6 +19,8 @@
   <a href="https://www.facebook.com/lia.da06/" target="blank">
   <img align="center" src="https://skills.syvixor.com/api/icons?i=facebook" alt="Juliana Mancera" />
   </a> &nbsp;&nbsp;
+  <img align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=telegram" alt="Juliana Mancera" />
+  </a> &nbsp;&nbsp;
   <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
 </p>
 
