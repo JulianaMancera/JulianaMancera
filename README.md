@@ -3,7 +3,7 @@
 # Hello, I'm Juls👋 
 ![izme](https://github.com/user-attachments/assets/0879881f-59d9-4339-bf33-2f227db036ae)
 
-<h2 align="center"> ~ Data Analyst - Software Engineer - Mobile/Web Developer ~ </h2>
+<h2 align="center"> ~ Software Engineer - Mobile/Web Developer ~ </h2>
 <p align="left">
   <img align="left" width="365px" src="https://github.com/user-attachments/assets/44ac5675-c94b-4439-8e8f-546d206d7371"/>
   <br>
@@ -21,12 +21,12 @@
   </a> &nbsp;&nbsp;
   <img align="center" src="https://skills.syvixor.com/api/icons?perline=15&i=telegram" alt="Juliana Mancera" />
   </a> &nbsp;&nbsp;
-  <p><strong>I'm a passionate Computer Science student who thrives on coding, database management, and developing innovative solutions to challenging problems. I'm constantly exploring new technologies and pushing the boundaries of what's possible.</strong></p><br>
+  <p><strong>Computer Science graduate focused on software engineering and mobile/web development. I enjoy building reliable, well tested applications and I'm always looking to sharpen my skills with new tools and technologies.</strong></p><br>
 </p>
 
 <h2 align="center"> 🎓 Education </h2>
 <h3 align="center"> Bachelor of Science in Computer Science </h3>
-<p align="center"> New Era University (2022-Graduating) </p>
+<p align="center"> New Era University (2022-2026) </p>
 <h3 align="center"> STEM Graduate </h3>
 <p align="center"> Lagro High School (2020-2022) </p>
 
@@ -41,24 +41,36 @@
 <summary><b>Click to view all Badges </b></summary>
 <br>
 
+<h3 align="center">🤖 AI & Machine Learning</h3>
+
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
 | <img src="https://github.com/user-attachments/assets/de168092-5844-4931-bad2-cdbd327e3e37" width="100"> <br> <a href="https://www.credly.com/badges/958d6ddd-c471-4803-9ee9-cf12d331f6ce/public_url"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
+| <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> AI Chatbots, RAG, & Governance with Data Workflows | KNIME | September 2025 |
+| <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
+| <img src="https://github.com/user-attachments/assets/8fdd696d-69ba-4a54-ac4e-97af7fea1c46" width="100"> <br> <a href="https://www.credly.com/badges/be18cb48-ffb0-4671-92f9-c4dfbdd8bdd3/public_url"> Deep Learning using TensorFlow | IBM SkillsBuild | July 2025 |
+
+<h3 align="center">🔐 Cybersecurity & Systems</h3>
+
+| Badge | Issued by | Month Issued | 
+| :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/095eff29-1c55-4c79-9b13-e6fc507388b6" width="100"> <br> <a href="https://www.credly.com/badges/19307437-4264-4aad-b687-56fe1aab0eb5/public_url"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
+| <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 |
 | <img src="https://github.com/user-attachments/assets/2019d8c8-d14f-4282-9162-f50d97fff737" width="100"> <br> <a href="https://www.credly.com/badges/df0d7b04-3dfe-4645-bc60-c113b29260fc/public_url"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/d3b38d58-6a0b-48b1-a989-629397d6a621" width="100"> <br> <a href="https://www.credly.com/badges/a2e2dfbc-d165-49c9-8f8c-53cdd85ce7be/public_url"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <img src="https://github.com/user-attachments/assets/64483a65-835a-4fb4-941d-4494843d40a8" width="100"> <br> <a href="https://www.credly.com/badges/f59ada42-b274-4159-be82-d7ce7b44f965/public_url"> Introduction to IoT | Cisco Networking Academy | December 2025 |
-| <img src="https://github.com/user-attachments/assets/095eff29-1c55-4c79-9b13-e6fc507388b6" width="100"> <br> <a href="https://www.credly.com/badges/19307437-4264-4aad-b687-56fe1aab0eb5/public_url"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
+
+<h3 align="center">📊 Data Analytics & Data Science</h3>
+
+| Badge | Issued by | Month Issued | 
+| :------------------: | :----------: |  :----------: | 
 | <img src="https://github.com/user-attachments/assets/a9bb96fc-b44c-4a3b-bc28-7af0c7950741" width="100"> <br> <a href="https://www.credly.com/badges/e0eb48f0-44a4-48d5-973e-f8690b30417c/public_url"> Data Science Essentials With Python | Cisco Networking Academy | September 2025 |
-| <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> AI Chatbots, RAG, & Governance with Data Workflows | KNIME | September 2025 |
 | <img src="https://github.com/user-attachments/assets/2e11d905-94dd-45f7-a81b-8a86d7606bf3" width="100"> <br> <a href="https://www.credly.com/badges/c35dbd18-42ee-4786-9754-7a518eb28caf/public_url"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
-| <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
-| <img src="https://github.com/user-attachments/assets/8fdd696d-69ba-4a54-ac4e-97af7fea1c46" width="100"> <br> <a href="https://www.credly.com/badges/be18cb48-ffb0-4671-92f9-c4dfbdd8bdd3/public_url"> Deep Learning using TensorFlow | IBM SkillsBuild | July 2025 |
 | <img src="https://github.com/user-attachments/assets/db4b68b6-1843-4487-a327-b48819d34bc5" width="100"> <br> <a href="https://www.credly.com/badges/264e555a-1378-4136-a359-7710edf7ab4b/public_url"> Data Visualization using Python | IBM SkillsBuild | July 2025 |
 | <img src="https://github.com/user-attachments/assets/04285038-3628-4502-841b-214b67a02af0" width="100"> <br> <a href="https://www.credly.com/badges/4faba3d0-ec9e-494f-be1e-8d71d5e4c0c7/public_url"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
 | <img src="https://github.com/user-attachments/assets/76757f03-f2bd-4f5a-be02-bea87908df7f" width="100"> <br> <a href="https://www.credly.com/badges/75239e5e-a10b-40c2-a12d-8849e1f9096c/public_url"> Data Analysis Using Python | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/8faa9c51-f4e1-4cee-81fd-51694095dabd" width="100"> <br> <a href="https://www.credly.com/badges/38147ed9-518a-459e-8437-08555f6b246d/public_url"> Data Science Tools | IBM SkillsBuild | June 2025 |
 | <img src="https://github.com/user-attachments/assets/4cb75d54-c849-4ed8-a480-d451e3c9d9fa" width="100"> <br> <a href="https://www.credly.com/badges/fed61fb7-a96c-4683-b7ed-e8a9b551c49f/public_url"> Python for Data Science | IBM SkillsBuild | June 2025 |
-| <img src="https://github.com/user-attachments/assets/2ba1aea7-f048-4f93-bd8f-afb5940388d8" width="100"> <br> <a href="https://labs.cyberwarfare.live/badge/image/6803b4cda1f0e29fd3e5eefb"> CRTA | CyberwareFare Labs | April 2025 |
 
 <br>
 <p align="center"><a href="#badges">⬆ Back to Top</a></p>
@@ -78,58 +90,90 @@
 <summary><b>Click to view all Certifications</b></summary>
 <br>
 
+<h3 align="center">💻 Software Engineering & Programming</h3>
+
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3976d7b743e6d116f4b9aa04e4dad8a7669a7e45?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"> Introduction to GitHub Concepts | Datacamp | June 2026 |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd488bb931d37c138cca6dd92df8d34c87abe3cf"> Object-Oriented Programming in Python | Datacamp | November 2025 |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/373055da3128a2abaf160145fd4f0511011af91e"> Software Engineering Principles in Python | Datacamp | November 2025 |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/63784956c54f87154152ba0c878262394f04fd54"> Data Structures and Algorithms in Python | Datacamp | November 2025 |
+| <a href="https://www.freecodecamp.org/certification/julsaurus/scientific-computing-with-python-v7"> Scientific Computing with Python | freeCodeCamp | June 2025 |
+| <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
+
+<h3 align="center">🌐 Web & Mobile Development</h3>
+
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/245b86afd07c24c9afc143b643986a8e"> Introduction to Mobile App Development | Coursera | April 2026 |
+| <a href="https://coursera.org/share/de6b2c3988456f8e9945d7c41904060c"> Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | April 2026 |
+| <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp | October 2024 |
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b7d75933516275e796702188ff0c25703e5d3964"> Software Development with Claude Code | Datacamp | June 2026 |
 | <a href="https://www.datacamp.com/skill-verification/AIF0022675650495"> AI Fundamentals | Datacamp | June 2026 |
-| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3976d7b743e6d116f4b9aa04e4dad8a7669a7e45?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa"> Introduction to GitHub Concepts | Datacamp | June 2026 |
 | <a href="https://verify.skilljar.com/c/fzm67c92p55m"> Claude Code 101 | Anthropic Education | April 2026 |
 | <a href="https://verify.skilljar.com/c/qqwt7dbmfypp"> Claude 101 | Anthropic Education | April 2026 |
-| <a href="https://github.com/user-attachments/files/27148891/Amazon.API.Gateway.certification.pdf"> Amazon API Gateway for Serverless Applications | AWS Training & Certification | April 2026 |
-| <a href="https://coursera.org/share/245b86afd07c24c9afc143b643986a8e"> Introduction to Mobile App Development | Coursera | April 2026 |
-| <a href="https://coursera.org/share/de6b2c3988456f8e9945d7c41904060c"> Flutter and Dart: Developing iOS, Android, and Mobile Apps | Coursera | April 2026 |
 | <a href="https://github.com/user-attachments/files/25788466/Introduction_to_Modern_AI_certificate_julianamancera.pdf"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
-| <a href="https://labs.cyberwarfare.live/credential/achievement/6990323b5f7c23c92b936099"> Certified Red Team Analyst - CRTA | Cyberware Labs | February 2026 |
 | <a href="https://edu.google.accredible.com/8797e293-0b77-464a-9b5a-e0b31c796389#acc.ORb7dJVM"> Gemini Certified University Student | Google for Education | January 2026 |
-| <a href="https://coursera.org/share/d271ecd36f98f13cfbe36444e53aa152"> Agile Project Management | Google | January 2026 |
-| <a href="https://coursera.org/share/a5af072e6af1895462356108cb8791db"> Ask Questions to Make Data-Driven Decisions | Google | January 2026 |
-| <a href="https://coursera.org/share/ada0e96061ed292abc21437a833d90f6"> Foundations: Data, Data, Everywhere | Google | January 2026 |
+| <a href="https://coursera.org/share/326c404b627704131d0d24148cea7511"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
+| <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
+| <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud | June 2025 |
+| <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> | Oracle | November 2023 |
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://github.com/user-attachments/files/27148891/Amazon.API.Gateway.certification.pdf"> Amazon API Gateway for Serverless Applications | AWS Training & Certification | April 2026 |
+| <a href="https://certificates.simplicdn.net/share/8438932_87990181749300777266.pdf"> Azure Fundamentals | Simplilearn | June 2025 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | Oracle | November 2023 |
+
+<h3 align="center">🔐 Cybersecurity & Networking</h3>
+
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://labs.cyberwarfare.live/credential/achievement/6990323b5f7c23c92b936099"> Certified Red Team Analyst - CRTA | Cyberware Labs | February 2026 |
 | <a href="https://github.com/user-attachments/files/24324197/Cisco.Networking.Academy.-.Operating_Systems_Basics.pdf"> Operating Systems Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23925761/Cisco.Network.Academy.-.Computer.Hardware.Basics.pdf"> Computer Hardware Basics | Cisco Networking Academy | December 2025 |
 | <a href="https://github.com/user-attachments/files/23924280/Cisco.Network.Academy.-.Introduction.to.IoT.pdf"> Introduction to IoT and Digital Transformation | Cisco Networking Academy | December 2025 |
-| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/57b60bdb657b6ed0dd65bafb72a8f1a3a3b5f52b"> Introduction to R | Datacamp | November 2025 |
-| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd488bb931d37c138cca6dd92df8d34c87abe3cf"> Object-Oriented Programming in Python | Datacamp | November 2025 |
-| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/373055da3128a2abaf160145fd4f0511011af91e"> Software Engineering Principles in Python | Datacamp | November 2025 |
-| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/63784956c54f87154152ba0c878262394f04fd54"> Data Structures and Algorithms in Python | Datacamp | November 2025 |
-| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8b98ea3c0d895ff1ba1b4213c3264dcc6cc1dd6a"> Understanding Data Engineering | Datacamp | November 2025 |
 | <a href="https://github.com/user-attachments/files/23200837/Introduction_to_Cybersecurity.pdf"> Introduction to Cybersecurity | Cisco Networking Academy | October 2025 |
+| <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 |
+
+<h3 align="center">📁 Project Management & Agile</h3>
+
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/d271ecd36f98f13cfbe36444e53aa152"> Agile Project Management | Google | January 2026 |
+| <a href="https://certificates.simplicdn.net/share/8441612_87990181749380020146.pdf"> Project Management 101 | Simplilearn | June 2025 |
+| <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
+
+<h3 align="center">📊 Data Analytics & Data Science</h3>
+
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://coursera.org/share/a5af072e6af1895462356108cb8791db"> Ask Questions to Make Data-Driven Decisions | Google | January 2026 |
+| <a href="https://coursera.org/share/ada0e96061ed292abc21437a833d90f6"> Foundations: Data, Data, Everywhere | Google | January 2026 |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/57b60bdb657b6ed0dd65bafb72a8f1a3a3b5f52b"> Introduction to R | Datacamp | November 2025 |
+| <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8b98ea3c0d895ff1ba1b4213c3264dcc6cc1dd6a"> Understanding Data Engineering | Datacamp | November 2025 |
 | <a href="https://github.com/user-attachments/files/22747529/Cisco.Network.Academy.-.Data.Science.Essentials.with.Python.pdf"> Data Science Essentials with Python | Cisco Networking Academy | September 2025 |
 | <a href="https://coursera.org/share/25a37fc437c2f941a2c9e0cea6d04698"> Python for Data Science, AI & Development | IBM | September 2025 |
 | <a href="https://coursera.org/share/993a42b342961857461e18330724962f"> Analyze Website Visitors with Google Analytics Segments | Coursera | September 2025 |
 | <a href="https://coursera.org/share/f8df46ea459cfd427d9af82594396b30"> Getting Started in Google Analytics | Coursera | September 2025 |
-| <a href="https://coursera.org/share/326c404b627704131d0d24148cea7511"> Supervised Machine Learning: Regression and Classification | Coursera | September 2025 |
 | <a href="https://github.com/user-attachments/files/22747508/Cisco.Network.Academy.-.Data.Analytics.Essentials.pdf"> Data Analytics Essentials | Cisco Networking Academy | August 2025 |
-| <a href="https://courses.cognitiveclass.ai/certificates/941459c4301344ec9cf9e0e55b14f1d4"> Deep Learning with TensorFlow | Cognitive Class | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/896049c539a54804a84c55e1ef2e2429"> Data Visualization with Python | Cognitive Class | July 2025 |
 | <a href="https://github.com/user-attachments/files/22747481/Cisco.Network.Academy.-.Introduction.to.Data.Science.pdf"> Introduction to Data Science | Cisco Networking Academy | July 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/12bc0fbb068749b193c219656dffbde8"> Data Analysis with Python | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/99e0fa084d9f4c3682ccf741b14b0c74"> Data Science Tools | Cognitive Class | June 2025 |
 | <a href="https://courses.cognitiveclass.ai/certificates/1c450fd0db614b3eb06903723f55fe26"> Python 101 for Data Science | Cognitive Class | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442282_87990181749391600176.pdf"> Python Libraries for Data Science | Simplilearn | June 2025 |
-| <a href="https://www.freecodecamp.org/certification/julsaurus/scientific-computing-with-python-v7"> Scientific Computing with Python | freeCodeCamp | June 2025 |
 | <a href="https://certificates.simplicdn.net/share/8442616_87990181749396191474.pdf"> Exploring Data Transformation with Google Cloud | Google Cloud | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8441612_87990181749380020146.pdf"> Project Management 101 | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8439259_87990181749307845446.pdf"> Gemini for Google Workspace | Google Cloud | June 2025 |
-| <a href="https://www.freecodecamp.org/certification/julsaurus/javascript-algorithms-and-data-structures-v8"> JavaScript Algorithms and Data Structures | freeCodeCamp | June 2025 |
-| <a href="https://simpli-web.app.link/e/fOUfjSHZYTb"> Agile Scrum Master | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8436422_87990181749227984417.pdf"> Prompt Engineering Application | Simplilearn | June 2025 |
-| <a href="https://certificates.simplicdn.net/share/8438932_87990181749300777266.pdf"> Azure Fundamentals | Simplilearn | June 2025 |
-| <a href="https://learn.opswatacademy.com/certificate/YtQswqw4LQ">Introduction to Critical Infrastructure Protection</a> | OPSWAT | October 2024 | 
-| <a href="https://www.freecodecamp.org/certification/julsaurus/responsive-web-design">Responsive Web Design</a> | freeCodeCamp | October 2024 | 
-| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a> | Oracle | November 2023 | 
-| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8339061558F6FB5F2CC6602BB7E61C1F24547A361974349ABE5A7C6C33A7B1D7">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
-| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a> | Oracle | November 2023 | 
-| <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 | 
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8339061558F6FB5F2CC6602BB7E61C1F24547A361974349ABE5A7C6C33A7B1D7">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> | Oracle | November 2023 |
+| <a href="https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe">SQL and Relational Databases 101</a> | Cognitive Class | November 2023 |
 
 <br>
 <p align="center"><a href="#certifications">⬆ Back to Top</a></p>
@@ -153,17 +197,17 @@
 | :-------------: | :-----: | :-----------: |
 | <a href="files/MANCERA.jpg"> Basics of Cloud Technology and Data Security on the Cloud </a> | NEU CICS | March 2026 |
 | <a href="files/D1_T1_S3.png"> Life After Graduation: The Reality No One Talks About</a> | NEU CICS | March 2026 | 
-| <a href="files/D1_T1_S3.png"> Building A Home without Windows: A Student’s Guide to Linux</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T1_S3.png"> Building A Home without Windows: A Student's Guide to Linux</a> | NEU CICS | March 2026 | 
 | <a href="files/D1_T3_S2.png"> Agentic AI</a> | NEU CICS | March 2026 | 
 | <a href="files/D1_T4_S2.png"> Web Penetration Testing 101</a> | NEU CICS | March 2026 | 
-| <a href="files/D1_T5_S7.png"> Behind the Scenes of Game QA: Testing, NDA’s and Daily Life</a> | NEU CICS | March 2026 | 
+| <a href="files/D1_T5_S7.png"> Behind the Scenes of Game QA: Testing, NDA's and Daily Life</a> | NEU CICS | March 2026 | 
 | <a href="files/D1_T6_S5.png"> Power UP your PASSION: Careers in the Gaming World</a> | NEU CICS | March 2026 | 
 | <a href="files/D2_T1_S163.png"> Modern Web Development: How a Full Stack Web App Goes Live</a> | NEU CICS | March 2026 | 
 | <a href="files/D2_T2_S150.png"> Beyond the Degree: Skills and Competencies for your Future Tech</a> | NEU CICS | March 2026 | 
-| <a href="files/D2_T3_S124.png"> Rewrite your Legacy: From Comics to Hollywood – A 2D Illustrator’s Journey</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T3_S124.png"> Rewrite your Legacy: From Comics to Hollywood – A 2D Illustrator's Journey</a> | NEU CICS | March 2026 | 
 | <a href="files/D2_T4_S224.png"> Business Communication</a> | NEU CICS | March 2026 | 
 | <a href="files/D2_T5_S223.png"> How to Earn in Animation</a> | NEU CICS | March 2026 | 
-| <a href="files/D2_T6_S207.png"> From Frame to Scene: I have a Degree in Animation. Now What’s Next?</a> | NEU CICS | March 2026 | 
+| <a href="files/D2_T6_S207.png"> From Frame to Scene: I have a Degree in Animation. Now What's Next?</a> | NEU CICS | March 2026 | 
 | <a href="https://www.vibecoders.ph/cert/GAI2Z26-67B5"> Gen AI to Z: A Career Summit in an AI-Driven World</a> | Vibe Coders PH | March 2026 | 
 | <a href="files/SENPAI Cert MANCERA.png"> SENPAI 3.0 </a> | ACSS - NEU CICS | February 2026 | 
 | <a href="files/Juliana_Mancera_AI_for_PM_5798N-1.png"> AI Powered Project Manager Masterclass</a> | TECHADEMY | October 2025 | 
