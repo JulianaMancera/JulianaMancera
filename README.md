@@ -45,6 +45,7 @@
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
+| <img src="https://github.com/user-attachments/assets/06512fc9-b93a-4222-aaf7-3a9b8bbe6a44" width="100"> <br> <a href="https://www.credly.com/badges/05c5c743-3068-4ca9-a085-06d5f211a060/public_url"> AI Literacy | IBM SkillsBuild | August 2026 |
 | <img src="https://github.com/user-attachments/assets/de168092-5844-4931-bad2-cdbd327e3e37" width="100"> <br> <a href="https://www.credly.com/badges/958d6ddd-c471-4803-9ee9-cf12d331f6ce/public_url"> Introduction to Modern AI | Cisco Networking Academy | March 2026 |
 | <img src="https://github.com/user-attachments/assets/431b99e3-7d5b-4f26-ab26-9f4f596f3fd6" width="100"> <br> <a href="https://www.credly.com/badges/ee1e5ae9-5d71-4385-975d-f25b9dad8716/public_url"> AI Chatbots, RAG, & Governance with Data Workflows | KNIME | September 2025 |
 | <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
