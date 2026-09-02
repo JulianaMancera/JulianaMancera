@@ -51,7 +51,7 @@
 | <img src="https://github.com/user-attachments/assets/877e050b-d633-42fe-b079-66ebdf8b2937" width="100"> <br> <a href="https://www.credly.com/badges/d0ea1aa8-6b8e-4d12-979f-4d2499797f89/public_url"> Artificial Intelligence Fundamentals | IBM SkillsBuild | August 2025 |
 | <img src="https://github.com/user-attachments/assets/8fdd696d-69ba-4a54-ac4e-97af7fea1c46" width="100"> <br> <a href="https://www.credly.com/badges/be18cb48-ffb0-4671-92f9-c4dfbdd8bdd3/public_url"> Deep Learning using TensorFlow | IBM SkillsBuild | July 2025 |
 
-<h3 align="center">🌐 Web & Mobile Development</h3>
+<h3 align="center">🌐 Web Development</h3>
 
 | Badge | Issued by | Month Issued | 
 | :------------------: | :----------: |  :----------: | 
