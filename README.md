@@ -202,6 +202,7 @@
 
 | Certificate | Issued by | Month Issued |
 | :-------------: | :-----: | :-----------: |
+| <a href="files/EdHeroes Global Forum2026.jpg"> AI and Architecture of Future Learning </a> | EdHeroes | September 2026 |
 | <a href="files/MANCERA.jpg"> Basics of Cloud Technology and Data Security on the Cloud </a> | NEU CICS | March 2026 |
 | <a href="files/D1_T1_S3.png"> Life After Graduation: The Reality No One Talks About</a> | NEU CICS | March 2026 | 
 | <a href="files/D1_T1_S3.png"> Building A Home without Windows: A Student's Guide to Linux</a> | NEU CICS | March 2026 | 
